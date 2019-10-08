@@ -1,7 +1,7 @@
 +++
 title = "Randbedingungen"
 chapter = true
-weight = 5
+weight = 2
 pre = "<b>2. </b>"
 +++
 
