@@ -7,6 +7,6 @@ pre = "<b>9. </b>"
 
 ### Abschnitt 9
 
-# Entwurfsentscheidungen
+# Entscheidungen
 
 Dieser Abschnitt lässt Sie zwei besonders interessante Entscheidungen beim Entwurf von DokChess im Detail nachvollziehen.
