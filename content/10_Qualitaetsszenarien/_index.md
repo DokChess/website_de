@@ -9,4 +9,5 @@ pre = "<b>10. </b>"
 
 # Qualitätsszenarien
 
-Dieser Abschnitt beinhaltet konkrete Qualitätsszenarien, welche die zentralen Qualitäts- ziele (→ [1.2](01_Einfuehrung-und-Ziele.md#1.2)), aber auch andere geforderte Qualitätseigenschaften besser fassen. Sie ermöglichen es, Entscheidungsoptionen zu bewerten.
+Dieser Abschnitt beinhaltet konkrete Qualitätsszenarien, welche die zentralen Qualitätsziele (→ [1.2](01_Einfuehrung-und-Ziele.md#1.2)), aber auch andere geforderte Qualitätseigenschaften besser fassen.
+Sie ermöglichen es, Entscheidungsoptionen zu bewerten.
