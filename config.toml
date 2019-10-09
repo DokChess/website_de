@@ -1,4 +1,21 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "de-de"
+title = "DokChess"
 theme = "learn"
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "red"
+
+  disableShortcutsTitle=true
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/DokChess/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-info-circle'></i> Impressum"
+url = "/"
+weight = 11
