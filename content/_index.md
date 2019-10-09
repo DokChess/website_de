@@ -1,5 +1,5 @@
 +++
-title = "arc42"
+title = "DokChess"
 +++
 
 # DokChess als Beispiel für arc42
@@ -15,6 +15,8 @@ Er zeigt die Struktur der Lösung und das Zusammenspiel zentraler Elemente.
 Die Gliederung der Inhalte erfolgt nach der arc42-Vorlage.
 Zielgruppe dieses Überblicks sind in erster Linie Softwarearchitekten, die Anregungen und Beispiele suchen, wie man Architekturentwürfe angemessen dokumentieren kann.
 Entwickler, die selbst ein Schachprogramm schreiben wollen, erhalten wertvolle Tipps und lernen en passant einiges über methodische Softwarearchitektur.
+
+----------------
 
 ### arc42 Reference
 
