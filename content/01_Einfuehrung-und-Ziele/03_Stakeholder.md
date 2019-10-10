@@ -12,10 +12,10 @@ Die folgende Tabelle stellt die Stakeholder von DokChess und ihre jeweilige Inte
 |Stefan Zörner|	<ul><li>benötigt attraktive Beispiele für sein Buch <li> will DokChess in Workshops und Vorträgen zu Softwareentwurf und -architektur als Anschauungsmaterial verwenden|
 |oose Innovative Informatik|<ul><li>Arbeitgeber von Stefan Zörner zum Zeitpunkt der Konzeption von DokChess<li>bietet Seminare, Workshops und Coaching zu Themen rund um Softwareentwicklung an</ul>|
 
-### Personas
+## Personas
 Das Bild der maßgeblichen Stakeholder (Architekt und Entwickler) wird durch die folgenden zwei (fiktiven) Personas geschärft.
 
-#### Ben, 33 Jahre, IT-Architekt
+### Ben, 33 Jahre, IT-Architekt
 
 ![Ben](/images/Abb09_02_Ben.jpg "Ben")
 
@@ -25,7 +25,7 @@ Bens Arbeitgeber stellt seit über 30 Jahren Labormessgeräte für Anwendungen i
 
 Ben bildet sich vorrangig durch die Lektüre von Blogs, Fachzeitschriften und Büchern fort. Er organisiert den fachlichen Austausch innerhalb seines Unternehmens durch Themenabende, und besucht regelmäßig die Veranstaltungen von lokalen User Groups. Auf einer solchen hat ein Bekannter arc42 erwähnt. Ben will ein Gefühl dafür bekommen, wie eine kompakte Architekturdokumentation nach arc42 für Systeme und Lösungen seines Unternehmens, beispielsweise Teile der neuen Plattform, konkret aussehen kann. Dazu möchte er sich das Eine oder Andere (z.B. Strukturierung, Notation in UML) für seine Arbeit abgucken, und Sicherheit gewinnen.
  
-#### Nicole, 37 Jahre, Softwareentwicklerin
+### Nicole, 37 Jahre, Softwareentwicklerin
 
 ![Nicole](/images/Abb09_03_Nicole.jpg "Nicole")
 
