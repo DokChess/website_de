@@ -9,4 +9,4 @@ pre = "<b>4. </b>"
 
 # Lösungstrategie
 
-Die folgende Tabelle stellt die Qualitätsziele von DokChess (siehe Abschnitt 1.2) passenden Architekturansätzen gegenüber, und erleichtert so einen Einstieg in die Lösung.
+Dieser Abschnitt einen enthält einen stark verdichteten Architekturüberblick. Eine Gegenüberstellung der wichtigsten Ziele und Lösungsansätze.
