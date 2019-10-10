@@ -14,3 +14,6 @@ Zugängliches Beispiel (Analysierbarkeit) | <ul><li>Architekturüberblick geglie
 | Schnelles Antworten auf Züge (Effizienz) |<ul><li>Reactive Extensions für nebenläufige Berechnung mit neu gefundenen besseren Zügen als Events →(f)<li>Optimierung des Minimax durch Alpha-Beta-Suche, →(e)<li>Effiziente Implementierung des Domänenmodells<li>Integrationstests mit Zeitvorgaben</ul>|
 
 Kleine Buchstaben in Klammern →(x) verorten einzelne Ansätze aus der Tabelle im folgenden schematischen Bild. Der restliche Abschnitt 4 führt in wesentliche Architekturaspekte ein und verweist auf weitere Informationen.
+
+![Informelles Überblicksbild für DokChess](/images/Abb09_06_Ueberblick.png "Informelles Überblicksbild für DokChess")
+##### Bild: Informelles Überblicksbild für DokChess
