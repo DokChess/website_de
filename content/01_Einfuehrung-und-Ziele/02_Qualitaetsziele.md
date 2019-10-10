@@ -1,6 +1,6 @@
 +++
 title = "Qualitätsziele"
-weight = 15
+weight = 16
 +++
 
 Die folgende Tabelle beschreibt die zentralen Qualitätsziele von DokChess, wobei die Reihenfolge eine grobe Orientierung bezüglich der Wichtigkeit vorgibt.
