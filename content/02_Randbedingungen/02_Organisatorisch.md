@@ -3,6 +3,8 @@ title = "Organisatorisch"
 weight = 2
 +++
 
+## 2.2 Organisatorische Randbedingungen
+
 | Randbedingung | Erläuterungen, Hintergrund |
 |---------------|----------------------------|
 | Team | Stefan Zörner, unterstützt durch Kollegen, Bekannte und interessierte Teilnehmer |

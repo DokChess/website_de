@@ -3,6 +3,8 @@ title = "Technisch"
 weight = 1
 +++
 
+## 2.1 Technische Randbedingungen
+
 | Randbedingung | Erläuterungen, Hintergrund |
 |---------------|----------------------------|
 | Moderate Hardwareausstattung | Betrieb der Lösung auf einem marktüblichen Standard-Notebook, um sie im Rahmen von Seminaren und Konferenzen auf einem solchen zeigen zu können.|
