@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.dokchess.de/"
 languageCode = "de-de"
 title = "DokChess"
 theme = "learn"
@@ -10,12 +10,22 @@ theme = "learn"
   disableShortcutsTitle=true
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-github'></i> Github repo"
+name = "<i class='fas fa-user-circle'></i> Über den Autor"
+url = "/autor/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> Quelltexte (GitHub)"
 identifier = "ds"
 url = "https://github.com/DokChess/"
-weight = 10
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-star'></i> Abspann"
+url = "/abspann/"
+weight = 12
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-info-circle'></i> Impressum"
 url = "/impressum/"
-weight = 11
+weight = 13
