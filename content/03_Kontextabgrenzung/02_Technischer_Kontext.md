@@ -3,6 +3,8 @@ title = "Technischer Kontext"
 weight = 2
 +++
 
+## 3.2 Technischer- oder Verteilungskontext
+
 ![Technische Interaktion zwischen DokChess und den Beteiligten](/images/Abb09_05_TechnischerKontext.png "Technische Interaktion zwischen DokChess und den Beteiligten")
 ##### Bild: Technische Interaktion zwischen DokChess und den Beteiligten
 

@@ -3,6 +3,8 @@ title = "Fachlicher Kontext"
 weight = 1
 +++
 
+## 3.1 Fachlicher Kontext
+
 ![Fachlicher Kontext von DokChess](/images/Abb09_04_FachlicherKontext.png "Fachlicher Kontext von DokChess")
 ##### Bild: Fachlicher Kontext von DokChess
 
