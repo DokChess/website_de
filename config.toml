@@ -15,14 +15,14 @@ url = "/autor/"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-github'></i> Quelltexte (GitHub)"
-identifier = "ds"
-url = "https://github.com/DokChess/"
+name = "<i class='fas fa-star'></i> Abspann (Credits)"
+url = "/abspann/"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-star'></i> Abspann"
-url = "/abspann/"
+name = "<i class='fab fa-github'></i> Quelltexte (GitHub)"
+identifier = "ds"
+url = "https://github.com/DokChess/"
 weight = 12
 
 [[menu.shortcuts]]

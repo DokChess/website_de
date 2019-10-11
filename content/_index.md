@@ -8,10 +8,4 @@ title = "DokChess"
 > Ich habe es als Anschauungsmaterial für Vorträge und Seminare rund um Softwarearchitektur und -entwurf konzipiert und implementiert.
 > Es dient als Fallbeispiel in meinem Buch über Architekturdokumentation.
 >
-> Stefan Zörner
-
-----------------
-
-### arc42 Reference
-
-We acknowledge that this document uses material from the arc 42 architecture template, http://www.arc42.de. Created by Dr. Peter Hruschka & Dr. Gernot Starke.
+> <a href="/autor">Stefan Zörner</a>
