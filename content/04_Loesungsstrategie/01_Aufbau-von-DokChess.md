@@ -3,6 +3,8 @@ title = "Aufbau von DokChess"
 weight = 11
 +++
 
+## 4.1	Aufbau von DokChess
+
 DokChess ist als Java-Programm mit main-Routine realisiert. Es zerfällt grob in folgende Teile:
 
 * eine Implementierung der Schachregeln

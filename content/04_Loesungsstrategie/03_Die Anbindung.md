@@ -3,6 +3,8 @@ title = "Die Anbindung"
 weight = 13
 +++
 
+## 4.3 Die Anbindung
+
 DokChess besitzt keine grafische Benutzeroberfläche; die Kommunikation erfolgt stattdessen über die Standardein­- und -­ausgabe. Als Kommunikationsprotokoll kommt das textbasierte XBoard-­Protokoll zum Einsatz (→ Entscheidung 9.1 „Wie kommuniziert die Engine mit der Außenwelt?“). DokChess lässt sich interaktiv per Kommandozeile bedienen, wenn man die XBoard­-Kommandos kennt und die Engine-Antworten zu deuten weiß (→ Konzept 8.3 „Benutzungsoberfläche“), siehe folgendes Bild.
 
 ![DokChess über die Kommandozeile bedienen](/images/Abb09_07_DokChess_Kommandozeile.png "DokChess über die Kommandozeile bedienen")

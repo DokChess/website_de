@@ -16,4 +16,4 @@ Zugängliches Beispiel (Analysierbarkeit) | <ul><li>Architekturüberblick geglie
 Kleine Buchstaben in Klammern →(x) verorten einzelne Ansätze aus der Tabelle im folgenden schematischen Bild. Der restliche Abschnitt 4 führt in wesentliche Architekturaspekte ein und verweist auf weitere Informationen.
 
 ![Informelles Überblicksbild für DokChess](/images/Abb09_06_Ueberblick.png "Informelles Überblicksbild für DokChess")
-##### Bild: Informelles Überblicksbild für DokChess
+*Bild: Informelles Überblicksbild für DokChess*
