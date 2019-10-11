@@ -4,6 +4,8 @@ weight = 1
 +++
 
 ![Fachlicher Kontext von DokChess](/images/Abb09_04_FachlicherKontext.png "Fachlicher Kontext von DokChess")
+##### Bild: Fachlicher Kontext von DokChess
+
 
 #### Menschlicher Gegner (Benutzer)
 Schach wird zwischen zwei Gegnern gespielt, die abwechselnd ihre Figuren ziehen. DokChess übernimmt die Rolle eines der Gegner, und tritt gegen einen menschlichen Gegner an. Dazu müssen sich die beiden austauschen, beispielsweise über ihre Züge, oder über Remisangebote.
