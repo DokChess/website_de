@@ -7,7 +7,7 @@ weight = 15
 |-------------|----------------|
 |50-Züge-Regel|	Regel im Schach, die besagt, dass ein Spieler ein _Remis_ reklamieren kann, wenn 50 Züge lang kein Bauer bewegt und keine Figur geschlagen wurde.|
 |Alpha-Beta-Suche|Deutliche Verbesserung des _Minimax-Algorithmus_, in dem Teile des Suchbaumes "weggeschnitten" werden können, ohne dabei zu einem anderen Ergebnis zu kommen.|
-|Einstellen|Anfängerfehler im Schach. Eine eigene Figur wird eingestellt, wenn Sie auf ein vom Gegner angegriffenes Feld gezogen wird und von diesem gefahrlos geschlagen werden kann.|
+|Einstellen|Anfängerfehler im Schach. Eine eigene Figur wird eingestellt, wenn sie auf ein vom Gegner angegriffenes Feld gezogen wird und von diesem gefahrlos geschlagen werden kann.|
 |Endspiel|Als Endspiel bezeichnet man im Schach die Endphase einer Partie. Sie ist dadurch gekennzeichnet, dass nur noch wenige Figurenarten auf dem Brett sind.|
 |Engine|Auch Schach-Engine. Bezeichnung für den Teil des Schachprogramms, der die Züge berechnet. Typischerweise hat eine Engine keine grafische Benutzeroberfläche.|
 |en passant|Spezieller Bauernzug im Schach. Wenn ein Bauer zwei Felder vorgeht und ein gegnerischer Bauer ihn hätte schlagen können, wäre er nur eins vorgegangen, darf dieser en passant schlagen.|
