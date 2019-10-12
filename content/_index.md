@@ -6,6 +6,6 @@ title = "DokChess"
 
 > Diese Seiten beschreiben die Architektur des Schach-Programmes DokChess.
 > Ich habe es als Anschauungsmaterial für Vorträge und Seminare rund um Softwarearchitektur und -entwurf konzipiert und implementiert.
-> Es dient als Fallbeispiel in meinem Buch über Architekturdokumentation.
+> Es diente ursprünglich als Fallbeispiel in meinem Buch über Architekturdokumentation.
 >
 > <a href="/autor">Stefan Zörner</a>
