@@ -9,6 +9,9 @@ weight = 1
 > Bobby Fischer (US-amerikanischer Schachspieler, Schachweltmeister 1972–1975)
 
 ## DokChess
+
+DokChess ist eine voll funktionsfähige Schach-Engine.
+
 Dieser Architekturüberblick lässt Sie die maßgeblichen Entwurfsentscheidungen nachvollziehen.
 Er zeigt die Struktur der Lösung und das Zusammenspiel zentraler Elemente.
 Die Gliederung der Inhalte erfolgt nach der arc42-Vorlage.
