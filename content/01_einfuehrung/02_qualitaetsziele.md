@@ -15,4 +15,4 @@ Die folgende Tabelle beschreibt die zentralen Qualitätsziele von DokChess, wobe
 | Akzeptable Spielstärke (Attraktivität)          |DokChess spielt stark genug, um schwache Gegner sicher zu schlagen und Gelegenheitsspieler zumindest zu fordern.|
 | Schnelles Antworten auf Züge (Effizienz)        |Da DokChess in Seminaren und Vorträgen live demonstriert wird, erfolgt die Berechnung der Spielzüge rasch.|
 
-Die Qualitätsszenarien in Abschnitt 10 konkretisieren diese Qualitätsziele und dienen insbesondere auch dazu ihre Erreichung zu bewerten.
+Die [Qualitätsszenarien in Abschnitt 10](/10_qualitaetsszenarien/) konkretisieren diese Qualitätsziele und dienen insbesondere auch dazu ihre Erreichung zu bewerten.
