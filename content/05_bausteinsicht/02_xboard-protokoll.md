@@ -7,7 +7,10 @@ weight = 12
 
 ### Zweck/Verantwortlichkeit
 
-Dieses Subsystem realisiert die Kommunikation mit einem Client (z.B. einer grafischen Oberfläche) mit Hilfe des textbasierten XBoard-Protokolls (→ Entscheidung 9.1). Das Subsystem liest Befehle über die Standardeingabe ein, prüft sie gegen die Spielregeln und setzt sie für die Engine um. Antworten der Engine (insbesondere ihre Züge) werden vom Subsystem als Ereignisse entgegengenommen, gemäß Protokoll formatiert und über die Standardausgabe zurückgesendet. Das Subsystem treibt somit das ganze Spielgeschehen. Es enthält auch die main-Methode.
+Dieses Subsystem realisiert die Kommunikation mit einem Client (z.B. einer grafischen Oberfläche) mit Hilfe des textbasierten XBoard-Protokolls ([→ Entscheidung 9.1](/09_entscheidungen/01_anbindung/)).
+Das Subsystem liest Befehle über die Standardeingabe ein, prüft sie gegen die Spielregeln und setzt sie für die Engine um.
+Antworten der Engine (insbesondere ihre Züge) werden vom Subsystem als Ereignisse entgegengenommen, gemäß Protokoll formatiert und über die Standardausgabe zurückgesendet.
+Das Subsystem treibt somit das ganze Spielgeschehen. Es enthält auch die main-Methode.
 
 ### Schnittstellen
 
@@ -21,10 +24,10 @@ Das Subsystem stellt seine Funktionalität über die Java-Klassen _de.dokchess.x
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
-| setEingabe | Setzt die Protokoll-Eingabe per Dependency Injection (→ Konzept 9.8.1). Typischerweise ist das die Standardeingabe (stdin), automatische Tests z.B. verwenden eine andere Quelle. |
+| setEingabe | Setzt die Protokoll-Eingabe per Dependency Injection ([→ Konzept 8.1](/08_konzepte/01_abhaengigkeiten/)). Typischerweise ist das die Standardeingabe (stdin), automatische Tests z.B. verwenden eine andere Quelle. |
 | setAusgabe | Setzt die Protokoll-Ausgabe. Typischerweise ist das die Standardausgabe (stdout), automatische Tests verwenden eine andere Senke.
-| setSpielregeln | Setzt eine Implementierung der Spielregeln, → 9.5.3 Spielregeln (Blackbox)
-| setEngine | Setzt eine Implementierung der Engine, → 9.5.4 Engine (Blackbox) |
+| setSpielregeln | Setzt eine Implementierung der Spielregeln, [→ 5.3 Spielregeln (Blackbox)](/05_bausteinsicht/03_spielregeln/)
+| setEngine | Setzt eine Implementierung der Engine, [→ 5.4 Engine (Blackbox)](/05_bausteinsicht/04_engine/) |
 | spielen | Startet die eigentliche Kommunikation (Eingabe/Verarbeitung/Ausgabe) in einer Endlosschleife, bis zum Beenden-Kommando.|
 
 ### Ablageort / Datei

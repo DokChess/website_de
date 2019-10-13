@@ -30,7 +30,7 @@ Die Klasse PolyglotOpeningBook ist ein Adapter zum Polyglot Opening Book-Dateifo
 | PolyglotOpeningBook | Konstruktor, erwartet die einzulesende Datei.|
 | setAuswahlModus | Setzt den Modus zur Auswahl eines Zuges, falls es in der Bibliothek für die Stellung mehr als einen Kandidaten gibt.|
 
-Abschnitt 8.2 beschreibt die in der Schnittstelle verwendeten Aufruf- und Rückgabeparameter (Zug, Stellung).
+[Konzept 8.2 („Schach-Domänenmodell“)](/08_konzepte/02_domaenenmodell/) beschreibt die in der Schnittstelle verwendeten Aufruf- und Rückgabeparameter (_Zug_, _Stellung_).
 
 ### Ablageort / Datei
 Die Implementierung, Unit-Tests und Testdaten für das Polyglot Opening Book-Fomat liegen unterhalb der Pakete _de.dokchess.eroeffnung..._
