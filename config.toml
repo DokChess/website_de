@@ -1,4 +1,4 @@
-baseURL = "http://www.dokchess.de/"
+baseURL = "https://www.dokchess.de/"
 languageCode = "de-de"
 title = "DokChess"
 theme = "learn"
