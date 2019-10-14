@@ -12,3 +12,11 @@ Thematisch beschäftige ich mich vorrangig mit Softwarearchitektur und Java-Tech
 Mein Wissen hierzu teile ich regelmäßig in Form von Vorträgen und Artikeln mit.
 Ganz besonders interessiert mich, wie sich Entwürfe und Ideen wirkungsvoll festhalten lassen.
 Darum geht es auch in meinem [dritten Buch](/abspann/#die-inhalte) „Softwarearchitekturen dokumentieren und kommunizieren“.
+
+### Kontakt
+
+
+
+<i class="fab fa-xing"></i> [Kontakt via Xing](https://www.xing.com/profile/Stefan_Zoerner3)  
+
+<i class="fab fa-twitter"></i> [Twitter: @StefanZoerner](https://twitter.com/StefanZoerner)  
