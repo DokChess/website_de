@@ -51,7 +51,7 @@ Formate: PDF, EPUB, MOBI
 
 #### Tooling
 
-Zur Generierung dieser Seite diente Hugo, das weltweit schnellste Framework für die Erstellung von Websites.
+Zur Generierung dieser Seite diente Hugo, das laut Selbstauskunft weltweit schnellste Framework für die Erstellung von Websites.
 Hugo ist ein Open-Source-Generator für statische Seiten.
 Mit seiner erstaunlichen Geschwindigkeit und Flexibilität macht es dank Hugo wieder Spaß, Websites zu erstellen.
 
