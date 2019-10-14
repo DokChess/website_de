@@ -17,16 +17,16 @@ Von der Schnittstelle der Stellung hängen sämtliche Module ab; eine nachträgl
 
 ### Relevante Einflussfaktoren
 
-* Randbedingungen (→ 2.1 „Technische Randbedingungen“)
+* Randbedingungen ([→ 2.1 „Technische Randbedingungen“](/02_randbedingungen/01_technisch/))
  * Implementierungssprache Java
  * moderate Hardwareausstattung
-* Maßgeblich betroffene Qualitätsmerkmale (→ 1.2 „Qualitätsziele“)
+* Maßgeblich betroffene Qualitätsmerkmale ([→ 1.2 „Qualitätsziele“](/01_einfuehrung/02_qualitaetsziele/))
  * Qualitätsziel: Einladende Experimentierplattform (Änderbarkeit)
  * Qualitätsziel: Akzeptable Spielstärke (Attraktivität)
  * Qualitätsziel: Schnelles Antworten auf Züge (Effizienz)
 * Betroffene Risiken
- * Aufwand der Implementierung (→ 11.2)
- * Erreichen der Spielstärke (→ 11.3)
+ * Aufwand der Implementierung ([→ 11.2](/11_risiken/02_aufwand/))
+ * Erreichen der Spielstärke ([→ 11.3](/11_risiken/03_spielstaerke/))
 
 ### Annahmen
 
@@ -35,10 +35,14 @@ Von der Schnittstelle der Stellung hängen sämtliche Module ab; eine nachträgl
 
 ### Betrachtete Alternativen
 
-Ausgangspunkt sind fachlich motivierte Klassen für Feld, Figur und Zug (→ 8.2 „Schach-Domänenmodell“). Die Klassen sind unveränderlich als Wertobjekte realisiert (Feld e4 bleibt nach Erzeugung stets e4).
+Ausgangspunkt sind fachlich motivierte Klassen für Feld, Figur und Zug ([→ 8.2 „Schach-Domänenmodell“](/08_konzepte/02_domaenenmodell/)).
+Die Klassen sind unveränderlich als Wertobjekte realisiert (Feld e4 bleibt nach Erzeugung stets e4).
+
 Für die Stellung werden zwei Alternativen betrachtet:
 
-* Option (1): Die Stellung ist veränderlich. Einzelne Methoden der Schnittstelle verändern den Zustand, führen beispielsweise Züge aus oder nehmen sie zurück.
+* **Option (1)**: Die Stellung ist veränderlich. Einzelne Methoden der Schnittstelle verändern den Zustand, führen beispielsweise Züge aus oder nehmen sie zurück.
+
+
 
 <pre>// Pseudocode
 Stellung s = new Stellung(); // Anfangsstellung, weiss am Zug
@@ -47,7 +51,7 @@ s.nimmLetztenZugZurueck();   // anschliessend wieder auf Anfang
 ...
 </pre>
 
-* Option (2): Die Stellung ist unveränderlich ("immutable"), d.h. eine Methode zum Ausführen eines Zuges liefert die neue Stellung (Kopie der alten, anschließend Zug ausgeführt) als ebenfalls unveränderliches Objekt zurück.
+* **Option (2)**: Die Stellung ist unveränderlich ("immutable"), d.h. eine Methode zum Ausführen eines Zuges liefert die neue Stellung (Kopie der alten, anschließend Zug ausgeführt) als ebenfalls unveränderliches Objekt zurück.
 
 <pre>Stellung s = new Stellung();
 Stellung neueStellung = s.fuehreZugAus(e2e4) // s bleibt unveraendert
@@ -85,6 +89,7 @@ Beim Ausführen eines Zuges wird die Stellung kopiert, das Original nicht verän
 Unveränderliche Objekte bieten signifikante Vorteile bei nebenläufigen Algorithmen.
 
 (-) Negativ
+
 Das Kopieren des Zustandes für jede neue Stellung kostet Zeit. Da es in Analysesituationen um sehr viele Stellungen geht, in Summe potentiell viel Zeit.
 
 Das Kopieren des Zustandes für jede neue Stellung kostet darüber hinaus Speicher. Die Implementierung von Suchalgorithmen mit Backtracking vermeidet zwar, dass komplette Spielbäume auf dem Heap landen. Nichts desto trotz ist der Speicherbedarf höher, und der Garbage Collector hat viel mehr zu tun.
