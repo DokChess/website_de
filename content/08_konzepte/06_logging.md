@@ -7,11 +7,13 @@ weight = 6
 
 Für Verbesserungen und Erweiterungen von DokChess durch Dritte sind die vorhandenen Analysemöglichkeiten von Interesse, insbesondere bei Fehlverhalten.
 
-Die Funktionalität selbst lässt sich gut mit Unit-Tests überprüfen. Das gilt insbesondere für die korrekte Implementierung der Spielregeln, für die Spielweise der Engine (→ 8.7 „Testbarkeit“) und auch für eigene Erweiterungen.
+Die Funktionalität selbst lässt sich gut mit Unit-Tests überprüfen.
+Das gilt insbesondere für die korrekte Implementierung der Spielregeln, für die Spielweise der Engine ([→ 8.7 „Testbarkeit“](/08_konzepte/07_testbarkeit/)) und auch für eigene Erweiterungen.
 
-Innerhalb von DokChess gibt es daher keine feinkörnigen Logging-Ausgaben; Lösungen wie log4j kommen nicht zum Einsatz. Auf diese Weise wird eine Abhängigkeit zu einer Fremdbibliothek, die sich durch den ganzen Quelltext ziehen würde, vermieden und der Code nicht durch diesen Aspekt verschmutzt.
+Innerhalb von DokChess gibt es daher keine feinkörnigen Logging-Ausgaben; Lösungen wie log4j kommen nicht zum Einsatz.
+Auf diese Weise wird eine Abhängigkeit zu einer Fremdbibliothek, die sich durch den ganzen Quelltext ziehen würde, vermieden und der Code nicht durch diesen Aspekt verschmutzt.
 
-Für die Kommunikation zwischen Client und DokChess über das XBoard-Protokoll besteht neben der interaktiven Bedienung über eine Shell (→ 8.3 Benutzungsoberfläche) oft die Möglichkeit, den Client die Konversation protokollieren zu lassen. Gängige Schachfrontends erlauben dies über das Schreiben von Log-Dateien und/oder die simultane Anzeige eines Protokollfensters während des Spiels. Das folgende Bild zeigt diese Funktionalität exemplarisch für Arena.
+Für die Kommunikation zwischen Client und DokChess über das XBoard-Protokoll besteht neben der interaktiven Bedienung über eine Shell ([→ 8.3 Benutzungsoberfläche](/08_konzepte/03_benutzungsoberflaeche/)) oft die Möglichkeit, den Client die Konversation protokollieren zu lassen. Gängige Schachfrontends erlauben dies über das Schreiben von Log-Dateien und/oder die simultane Anzeige eines Protokollfensters während des Spiels. Das folgende Bild zeigt diese Funktionalität exemplarisch für Arena.
 
 ![Protokollfenster zum XBoard-Protokoll in Arena](/images/Abb09_23_ProtokollfensterArena.png "Protokollfenster zum XBoard-Protokoll in Arena")
 
