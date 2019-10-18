@@ -3,6 +3,7 @@ title = "Verteilungssicht"
 chapter = true
 weight = 7
 pre = "<b>7. </b>"
+description="Diese Sicht beschreibt den Betrieb von DokChess."
 +++
 
 ### Abschnitt 7

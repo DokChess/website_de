@@ -3,6 +3,7 @@ title = "Qualitätsszenarien"
 chapter = true
 weight = 10
 pre = "<b>10. </b>"
+description="Dieser Abschnitt beinhaltet konkrete Qualitätsszenarien, welche die zentralen Qualitätsziele, aber auch andere geforderte Qualitätseigenschaften besser fassen."
 +++
 
 ### Abschnitt 10

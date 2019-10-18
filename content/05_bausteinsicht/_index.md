@@ -3,6 +3,7 @@ title = "Bausteinsicht"
 chapter = true
 weight = 5
 pre = "<b>5. </b>"
+description="Dieser Abschnitt beschreibt die Zerlegung von DokChess in Module, wie sie sich auch in der Paketstruktur des Java-Quelltextes widerspiegelt."
 +++
 
 ### Abschnitt 5

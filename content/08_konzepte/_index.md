@@ -3,6 +3,7 @@ title = "Konzepte"
 chapter = true
 weight = 8
 pre = "<b>8. </b>"
+description="Dieser Abschnitt beschreibt allgemeine Strukturen und Aspekte, die systemweit gelten."
 +++
 
 ### Abschnitt 8

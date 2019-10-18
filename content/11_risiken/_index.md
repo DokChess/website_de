@@ -3,6 +3,7 @@ title = "Risiken"
 chapter = true
 weight = 11
 pre = "<b>11. </b>"
+description="Die folgenden Risiken wurden zu Beginn des Vorhabens identifiziert."
 +++
 
 ### Abschnitt 11

@@ -3,6 +3,7 @@ title = "Lösungstrategie"
 chapter = true
 weight = 4
 pre = "<b>4. </b>"
+description=""
 +++
 
 ### Abschnitt 4
