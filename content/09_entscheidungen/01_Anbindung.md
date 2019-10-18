@@ -1,5 +1,5 @@
 +++
-title = "Anbindung"
+title = "Frontend-Anbindung"
 weight = 1
 +++
 
