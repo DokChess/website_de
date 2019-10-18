@@ -1,6 +1,9 @@
-baseURL = "https://www.dokchess.de/"
-languageCode = "de-de"
 title = "DokChess"
+baseURL = "https://www.dokchess.de/"
+
+languageCode = "de-de"
+defaultContentLanguage = "de"
+
 theme = "learn"
 
 [outputs]
