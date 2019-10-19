@@ -1,0 +1,10 @@
+SetOutputFilter DEFLATE
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www.dokchess.de$
+RewriteRule ^(.*)$ https://www.dokchess.de/$1 [R=301,L]
+
+Redirect 301 /dokchess/arc42 https://www.dokchess.de/
+Redirect 301 /dokchess/arc42/ https://www.dokchess.de/
+
+ErrorDocument 404 /404.html
