@@ -31,10 +31,13 @@ Das Schachbrett besteht aus 8 x 8 Feldern die in 8 Reihen (1-8) und 8 Linien (a-
 
 *Bild: Ein Zug geht von einem Feld zu einem Feld*
 
-Die Klasse _Stellung_ stellt die aktuelle Situation auf dem Brett dar. Vor allem sind das die Figuren auf dem Brett, das intern als zweidimensionales Array (8 x 8) implementiert ist. Falls ein Feld unbesetzt ist, steht null im Array. Zur Komplettierung der Spielsituation gehört die Information, wer am Zug ist, ob noch Rochaden möglich sind und ob en passant geschlagen werden kann.
+Die Klasse _Stellung_ stellt die aktuelle Situation auf dem Brett dar.
+Vor allem sind das die Figuren auf dem Brett, das intern als zweidimensionales Array (8 x 8) implementiert ist.
+Falls ein Feld unbesetzt ist, steht null im Array.
+Zur Komplettierung der Spielsituation gehört die Information, wer am Zug ist, ob noch Rochaden möglich sind und ob en passant geschlagen werden kann.
 
 ![Die Klasse Stellung](/images/Abb09_20_Stellung.png "Die Klasse Stellung \(Ausschnitt, Details wie Rochade fehlen\)")
 
 *Bild: Die Klasse Stellung (Ausschnitt, Details wie Rochade fehlen)*
 
-Die Klasse _Stellung_ ist ebenfalls unveränderlich, die Methode _fuehreZugAus()_ liefert eine neue Stellung mit der veränderten Spielsituation zurück (→ Entscheidung 9.2 „Sind Stellungsobjekte veränderlich oder nicht?“).
+Die Klasse _Stellung_ ist ebenfalls unveränderlich, die Methode _fuehreZugAus()_ liefert eine neue Stellung mit der veränderten Spielsituation zurück ([→ Entscheidung 9.2 „Sind Stellungsobjekte veränderlich oder nicht?“]()).
