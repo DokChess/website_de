@@ -4,9 +4,9 @@ chapter = false
 weight = 1
 +++
 
-> "Die einzigen Gegner, die nicht immer eine Ausrede auf Lager haben, wenn sie gegen mich verlieren, sind Computer."
+> "Eines Tages werden Computer uns alle überflüssig machen."
 >
-> Bobby Fischer (US-amerikanischer Schachspieler, Schachweltmeister 1972–1975)
+> Robert (“Bobby”) Fisher (US-amerikanischer Schachspieler, Schachweltmeister 1972–1975), 1975
 
 ## DokChess
 
