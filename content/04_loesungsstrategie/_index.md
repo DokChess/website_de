@@ -3,7 +3,7 @@ title = "Lösungstrategie"
 chapter = true
 weight = 4
 pre = "<b>4. </b>"
-description=""
+description="Dieser Abschnitt einen enthält einen stark verdichteten Architekturüberblick."
 +++
 
 ### Abschnitt 4

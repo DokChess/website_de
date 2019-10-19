@@ -3,7 +3,7 @@ title = "Kontextabgrenzung"
 chapter = true
 weight = 3
 pre = "<b>3. </b>"
-description=""
+description="Dieser Abschnitt beschreibt das Umfeld von DokChess."
 +++
 
 ### Abschnitt 3
