@@ -40,4 +40,4 @@ Zur Komplettierung der Spielsituation gehört die Information, wer am Zug ist, o
 
 *Bild: Die Klasse Stellung (Ausschnitt, Details wie Rochade fehlen)*
 
-Die Klasse _Stellung_ ist ebenfalls unveränderlich, die Methode _fuehreZugAus()_ liefert eine neue Stellung mit der veränderten Spielsituation zurück ([→ Entscheidung 9.2 „Sind Stellungsobjekte veränderlich oder nicht?“]()).
+Die Klasse _Stellung_ ist ebenfalls unveränderlich, die Methode _fuehreZugAus()_ liefert eine neue Stellung mit der veränderten Spielsituation zurück ([→ Entscheidung 9.2 „Sind Stellungsobjekte veränderlich oder nicht?“](/09_entscheidungen/02_stellungsobjekte/)).
