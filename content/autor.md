@@ -1,6 +1,7 @@
 +++
 title = "Über den Autor"
 weight = 10
+description="Stefan Zörner arbeitet als Berater, Trainer und Coach bei embarc in Hamburg."
 +++
 
 ![Stefan Zörner](/images/autor/SZ_web_300x202.jpg "Stefan Zörner")
