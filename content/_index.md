@@ -10,7 +10,7 @@ Ein Jahrhunderttraum wie das Fliegen: Eine Maschine, die Menschen im Schach bezw
 
 ### DokChess als Beispiel für arc42
 
-Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen sind bei der Umsetzung zu treffen? Mit DokChess lernt Ihr das Nötigste, um selbst ein Schachprogramm zu bauen. Und Ihr erfahrt auf vergnügliche Weise _en passant_, wie Ihr ganz allgemein eine nachvollziehbare, angemessene Softwarearchitektur entwerfen, bewerten und [festhalten](/dokchess/) könnt.
+Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen sind bei der Umsetzung zu treffen? Mit DokChess lernt Ihr das Nötigste, um selbst ein Schachprogramm zu bauen. Und Ihr erfahrt auf vergnügliche Weise _en passant_, wie Ihr ganz allgemein eine nachvollziehbare, angemessene Softwarearchitektur entwerfen, bewerten und [festhalten](/00_ueberblick/) könnt.
 
 > "Ich habe DokChess als Anschauungsmaterial für Vorträge und Workshops rund um Softwarearchitektur und -entwurf konzipiert und implementiert.
 > Es ist eines der Fallbeispiele in meinem [Buch](/abspann/#die-inhalte) über Architekturdokumentation.
@@ -18,4 +18,4 @@ Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen sind bei 
 >
 > Ihr wollt selbst eine Schachengine implementieren? Dann startet [hier](/20_selber_starten/)!"
 
-> [Stefan Zörner](/autor)
+> [Stefan Zörner](/autor/)
