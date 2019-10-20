@@ -6,16 +6,19 @@ description = "DokChess ist eine voll funktionsfähige Schach-Engine. Dieser Arc
 
 # Softwarearchitektur en&nbsp;passant
 
+> _Note: An [<i class="fas fa-language"></i> english translation](/en/) of the content is available an this site as well._
+
 Ein Jahrhunderttraum wie das Fliegen: Eine Maschine, die Menschen im Schach bezwingt. Auch heute noch für viele Entwickler eine faszinierende Aufgabe!  
 
 ### DokChess als Beispiel für arc42
 
 Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen sind bei der Umsetzung zu treffen? Mit DokChess lernt Ihr das Nötigste, um selbst ein Schachprogramm zu bauen. Und Ihr erfahrt auf vergnügliche Weise _en passant_, wie Ihr ganz allgemein eine nachvollziehbare, angemessene Softwarearchitektur entwerfen, bewerten und [festhalten](/00_ueberblick/) könnt.
 
+
 > "Ich habe DokChess als Anschauungsmaterial für Vorträge und Workshops rund um Softwarearchitektur und -entwurf konzipiert und implementiert.
 > Es ist eines der Fallbeispiele in meinem [Buch](/abspann/#die-inhalte) über Architekturdokumentation.
 > Die Java-Quelltexte liegen bei GitHub, weitere Informationen zur Implementierung findet Ihr auf diesen Seiten.
 >
 > Ihr wollt selbst eine Schachengine implementieren? Dann startet [hier](/20_selber_starten/)!"
-
+>  
 > [Stefan Zörner](/autor/)
