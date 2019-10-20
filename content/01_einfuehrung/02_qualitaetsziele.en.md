@@ -17,4 +17,4 @@ The order of the goals gives you a rough idea of their importance.
 | Acceptable playing strength (Attractiveness) | DokChess plays strong enough to beat weak opponents safely and at least challenges casual players. |
 | Quick response to opponent's moves (Efficiency) | Since DokChess is used as live-demo in seminars and lectures, calculation of moves takes place quickly. |
 
-The [quality scenarios in section 10](/10_qualityscenarios/) detail these goals and serve to evaluate their achievement.
+The [quality scenarios in section 10](/en/10_qualityscenarios/) detail these goals and serve to evaluate their achievement.
