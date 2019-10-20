@@ -5,7 +5,7 @@ weight = 1
 url="00_overview"
 +++
 
-> "Eines Tages werden Computer uns alle überflüssig machen."
+> "Someday computers will make us all obsolete."
 >
 > Robert ("Bobby") Fisher, World Chess Champion 1972-1975, in 1975.
 
