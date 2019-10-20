@@ -15,7 +15,7 @@ url = "03_context/02_deployment"
 A human player is connected to DokChess with a graphical front-end. The development of such is not part of DokChess. Each graphical frontend can be used instead, if it supports the so-called XBoard protocol. These include Xboard (or Winboard on Windows), Arena and Aquarium.
 
 #### Polyglot Opening Book (external system)
-Polyglot Opening Book is a binary file format for opening libraries. DokChess allows the optional connection of such books. Only read access is used. |
+Polyglot Opening Book is a binary file format for opening libraries. DokChess allows the optional connection of such books. Only read access is used.
 
 -----
 
