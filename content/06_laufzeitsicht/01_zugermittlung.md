@@ -6,7 +6,7 @@ weight = 11
 ## 6.1 Zugermittlung Walkthrough
 
 Nach Aufbau des XBoard-Protokolls startet der Client (weiß) über die Angabe eines Zuges eine Partie.
-Das Sequenzdiagramm im Bild unten zeigt eine exemplarische Interaktion auf Subsystem-Ebene von der Eingabe "e2e4" (weißer Bauer e2-e4) bis zur Antwort von DokChess, also der Ausgabe "move b8c6" (schwarzer Springer b8-c6, „Nimzowitsch-Verteidigung“).
+Das Sequenzdiagramm im Bild unten zeigt eine exemplarische Interaktion auf Subsystem-Ebene von der Eingabe "e2e4" (weißer Bauer e2-e4) bis zur Antwort von DokChess, also der Ausgabe "move b8c6" (schwarzer Springer b8-c6, [„Nimzowitsch-Verteidigung“](https://de.wikipedia.org/wiki/Nimzowitsch-Verteidigung)).
 
 ![Beispielhaftes Zusammenspiel für eine Zugermittlung](/images/Abb09_16_ZugErmittlungWalkthrough.png "Beispielhaftes Zusammenspiel für eine Zugermittlung")
 *Bild: Beispielhaftes Zusammenspiel für eine Zugermittlung*
