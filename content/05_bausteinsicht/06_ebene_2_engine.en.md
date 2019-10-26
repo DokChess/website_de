@@ -11,12 +11,12 @@ If available, the determination of the move is initially delegated to an opening
 Only if the book does not provide a standard move _Search_ is used.
 
 ![Engine, building block view, level 2](/images/en/05_Engine_Level_2.png "Engine, building block view, level 2")
-
 *Fig.: Engine, building block view, level 2*
 
-*Table: Modules of Engine subsystem*
+----
 
 |  Module | Short description |
 |-------------------------------|--------------------------------|
-| [Search](#section-v-5-2-1)   | Determines the optimal move for a position under certain conditions. |
-| [Evaluation](#section-v-5-2-2) | Evaluates a position from an opponent's perspective.|
+| [Search](/en/05_buildingblockview/07_search/)   | Determines the optimal move for a position under certain conditions. |
+| [Evaluation](/en/05_buildingblockview/08_evaluation/) | Evaluates a position from an opponent's perspective.|
+*Table: Modules of Engine subsystem*

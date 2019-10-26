@@ -10,12 +10,12 @@ Falls vorhanden wird die Ermittlung des Zuges zunächst an die Eröffnungsbiblio
 Nur wenn diese keinen Rat weiß, kommt die Zugsuche zum Einsatz.
 
 ![Subsystem Engine, Bausteinsicht, Ebene 2](/images/Abb09_13_Subsystem_Engine.png "Subsystem Engine, Bausteinsicht, Ebene 2")
-
 *Bild: Subsystem Engine, Bausteinsicht, Ebene 2*
 
-*Tabelle: Module des Subsystems Engine*
+----
 
 | Modul | Kurzbeschreibung |
 |-------|------------------|
 | [Zugsuche](/05_bausteinsicht/07_zugsuche/) | Ermittelt zu einer Stellung den unter bestimmten Bedingungen optimalen Zug.|
 | [Stellungsbewertung](/05_bausteinsicht/08_stellungsbewertung/) | Bewertet eine Stellung aus Sicht eines Spielers.|
+*Tabelle: Module des Subsystems Engine*
