@@ -17,21 +17,26 @@ Das Subsystem stellt seine Funktionalität über das Java-Interface _de.dokchess
 
 *Bild: Schnittstelle Eroeffnungsbibliothek, Implementierung PolyglotOpeningBook*
 
-*Tabelle: Methoden der Schnittstelle Eroeffnungsbibliothek*
+----
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
 | liefereZug | Liefert zur angegebenen Stellung einen aus der Bibliothek bekannten Zug, oder null |
+*Tabelle: Methoden der Schnittstelle Eroeffnungsbibliothek*
 
 ### PolyglotOpeningBook
-Die Klasse PolyglotOpeningBook ist ein Adapter zum Polyglot Opening Book-Dateiformat. Implementierung der Eroeffnungsbibliothek, die eine Binärdatei im entsprechenden Format einliest und einen Zug zur angegebenen Stellung zurückliefert, falls es einen gibt.
-
-*Tabelle: Methoden der Klasse PolyglotOpeningBook (zusätzlich zur Schnittstelle)*
+Die Klasse PolyglotOpeningBook ist ein Adapter zum Polyglot Opening Book-Dateiformat.
+Implementierung der Eroeffnungsbibliothek, die eine Binärdatei im entsprechenden Format einliest und einen Zug zur angegebenen Stellung zurückliefert, falls es einen gibt.
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
 | PolyglotOpeningBook | Konstruktor, erwartet die einzulesende Datei.|
 | setAuswahlModus | Setzt den Modus zur Auswahl eines Zuges, falls es in der Bibliothek für die Stellung mehr als einen Kandidaten gibt.|
+
+
+*Tabelle: Methoden der Klasse PolyglotOpeningBook (zusätzlich zur Schnittstelle)*
+
+----
 
 [Konzept 8.2 („Schach-Domänenmodell“)](/08_konzepte/02_domaenenmodell/) beschreibt die in der Schnittstelle verwendeten Aufruf- und Rückgabeparameter (_Zug_, _Stellung_).
 

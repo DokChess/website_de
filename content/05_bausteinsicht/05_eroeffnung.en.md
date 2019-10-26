@@ -22,26 +22,28 @@ The class _org.dokchess.opening.polyglot.PolyglotOpeningBook_ provides one possi
 
 *Fig.: Schnittstelle Eroeffnungsbibliothek, Implementierung PolyglotOpeningBook*
 
-*Table: Methods of the interface OpeningLibrary*
+----
 
 |  Method | Short description |
 |-------------------------------|--------------------------------|
 | lookUpMove | Returns a standard move for the specified position from the library, or null. |
+*Table: Methods of the interface OpeningLibrary*
 
 
 #### PolyglotOpeningBook
 The _PolyglotOpeningBook_ class is an adapter for the Polyglot opening book file format.
 Implementation of _OpeningLibrary_ that reads a binary file in the appropriate format and returns a move to the specified position, if the library contains any.
 
-*Table: Methods of the class PolyglotOpeningBook (in addition to interface OpeningLibrary):*
 
 |  Method | Short description |
 |-------------------------------|--------------------------------|
 | PolyglotOpeningBook | Constructor, expects the input file. |
 | setSelectionMode | Sets the mode to select a move, if there is more than one candidate in the library for the given position. |
+*Table: Methods of the class PolyglotOpeningBook (in addition to interface OpeningLibrary):*
 
+----
 
-[Konzept 8.2 („Schach-Domänenmodell“)](/08_konzepte/02_domaenenmodell/) beschreibt die in der Schnittstelle verwendeten Aufruf- und Rückgabeparameter (_Zug_, _Stellung_).
+Concept [V.8.2](#section-v-8-2) ("Chess domain model") describes the types used in the interface as call and return parameters (_Move_, _Position_).
 
 ### Files
 The implementation, unit tests and test data for the Polyglot file format are located below the packages   
