@@ -13,6 +13,7 @@ Gängige Algorithmen wie der Minimax begnügen sich daher damit, den "Spielbaum"
 
 ### Schnittstellen
 Das Modul stellt seine Funktionalität über die Schnittstelle _de.dokchess.engine.suche.Suche_ zur Verfügung.
+
 Der Minimax-Algorithmus liegt in der Klasse _de.dokchess.engine.suche.MinimaxAlgorithmus_ vor.
 Die Klasse _MinimaxParalleleSuche_ nutzt den Algorithmus und implementiert gleichzeitig die Schnittstelle _Suche_.
 Sie untersucht mehrere Teilbäume parallel; wenn sie einen besseren Zug findet erhält der Aufrufer eine Nachricht onNext über das Observer-Pattern.

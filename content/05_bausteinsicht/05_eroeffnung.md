@@ -6,8 +6,11 @@ weight = 15
 ## 5.5 Eröffnung (Blackbox)
 
 ### Zweck/Verantwortlichkeit
-Dieses Subsystem stellt Eröffnungsbibliotheken bereit und implementiert das Polyglot Opening Book-Format. Bei diesem Format handelt es sich gegenwärtig um das einzig geläufige, das nicht proprietär ist. Entsprechende Buchdateien und zugehörige Werkzeuge sind im Internet frei verfügbar.
-Schnittstellen
+Dieses Subsystem stellt Eröffnungsbibliotheken bereit und implementiert das Polyglot Opening Book-Format.
+Bei diesem Format handelt es sich gegenwärtig um das einzig geläufige, das nicht proprietär ist.
+Entsprechende Buchdateien und zugehörige Werkzeuge sind im Internet frei verfügbar.
+
+### Schnittstellen
 Das Subsystem stellt seine Funktionalität über das Java-Interface _de.dokchess.eroeffnung.Eroeffnungsbibliothek_ bereit. Als Implementierung liegt die Klasse _de.dokchess.eroeffnung.polyglot.PolyglotOpeningBook_ vor.
 
 ![Schnittstelle Eroeffnungsbibliothek, Implementierung PolyglotOpeningBook](/images/Abb09_12_SchnittstellenEroeffnung.png "Schnittstelle Eroeffnungsbibliothek, Implementierung PolyglotOpeningBook")

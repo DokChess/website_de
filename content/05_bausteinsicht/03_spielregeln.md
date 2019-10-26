@@ -9,7 +9,10 @@ weight = 13
 Dieses Subsystem beinhaltet die Spielregeln für Schach gemäß Internationalem Schachverband (FIDE). Es ermittelt zu einer Stellung alle gültigen Züge und entscheidet, ob ein Schach, ein Matt oder ein Patt vorliegt.
 
 ### Schnittstelle
-Das Subsystem stellt seine Funktionalität über das Java-Interface de.dokchess.regeln.Spielregeln bereit. Default-Implementierung der Schnittstelle ist die Klasse _de.dokchess.regeln.DefaultSpielregeln_.
+Das Subsystem stellt seine Funktionalität über das Java-Interface _de.dokchess.regeln.Spielregeln_ bereit.
+
+Default-Implementierung der Schnittstelle ist die Klasse  
+_de.dokchess.regeln.DefaultSpielregeln_.
 
 ![Schnittstelle Spielregeln](/images/Abb09_10_Schnittstelle_Spielregeln.png "Schnittstelle Spielregeln")
 
