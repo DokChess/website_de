@@ -15,7 +15,6 @@ Das Subsystem stellt seine Funktionalität über das Java-Interface _de.dokchess
 
 *Bild: Schnittstelle Engine, Implementierung*
 
-*Tabelle: Methoden der Schnittstelle Engine*
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
@@ -23,13 +22,18 @@ Das Subsystem stellt seine Funktionalität über das Java-Interface _de.dokchess
 | ermittleDeinenZug | Startet die Ermittlung eines Zuges für die aktuelle Spielsituation. Liefert Zugkandidaten asynchron über ein Observable zurück ([→ Laufzeitsicht 6.1](/06_laufzeitsicht/01_zugermittlung/)). Die Engine führt die Züge nicht aus.|
 | ziehen | Führt den angegebenen Zug aus, d.h. ändert den Zustand der Engine. Falls aktuell eine Zugermittlung läuft, wird diese abgebrochen.|
 | schliessen | Schließt die Engine. Die Methode erlaubt es Ressourcen frei zu geben. Im Anschluss sind keine Zugermittlungen mehr zulässig.|
+*Tabelle: Methoden der Schnittstelle Engine*
 
-*Tabelle: Methoden der Klasse DefaultEngine (zusätzlich zu Engine)*
+----
+
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
 | setSpielregeln | Setzt eine Implementierung der Spielregeln, [→ 5.3 Spielregeln (Blackbox)](/05_bausteinsicht/03_spielregeln/)|
 | setEroeffnungsbibliothek | Setzt eine (optionale) Eröffnungsbibliothek, deren Züge gegenüber eigenen Überlegungen präferiert werden. [→ 5.5 Eröffnung (Blackbox)](/05_bausteinsicht/05_eroeffnung/)|
+*Tabelle: Methoden der Klasse DefaultEngine (zusätzlich zu Engine)*
+
+----
 
 [Konzept 8.2 („Schach-Domänenmodell“)](/08_konzepte/02_domaenenmodell/) beschreibt die in der Schnittstelle verwendeten Aufruf- und Rückgabeparameter (_Zug_, _Stellung_).
 Details zum Engine-Subsystem finden Sie in der Whitebox-Sicht in [Abschnitt 5.6](/05_bausteinsicht/06_ebene_2_engine/).
