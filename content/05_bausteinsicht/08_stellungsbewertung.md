@@ -19,11 +19,12 @@ Die Schnittstelle enthält Konstanten für typische Bewertungen.
 
 *Bild: Schnittstelle Bewertung, Klasse ReineMaterialBewertung*
 
-*Tabelle: Methoden der Schnittstelle Bewertung*
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
 | bewerteStellung | Liefert zur gegebenen Stellung eine Bewertung aus Sicht der angegebenen Spielerfarbe. Je höher, desto besser.|
+*Tabelle: Methoden der Schnittstelle Bewertung*
+
 
 ### ReineMaterialBewertung
 Die Implementierung berücksichtigt ausschließlich die vorhandenen Figuren (Material).

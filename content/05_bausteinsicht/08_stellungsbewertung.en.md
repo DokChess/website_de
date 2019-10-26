@@ -22,11 +22,11 @@ The class _org.dokchess.engine.eval.StandardMaterialEvaluation_ is a very simple
 
 *Fig.: Interface Evaluation and class StandardMaterialEvaluation*
 
-*Table: Methods of the interface Evaluation*
 
 |  Method | Short description |
 |-------------------------------|--------------------------------|
 | evaluatePosition | Returns an evaluation value for the given position from the view of the specified player's colour. The higher the better. |
+*Table: Methods of the interface Evaluation*
 
 
 #### StandardMaterialEvaluation

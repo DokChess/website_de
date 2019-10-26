@@ -23,15 +23,14 @@ Den Abschluss der Suche signalisiert die Suche über die Nachricht _onComplete_.
 
 *Bild: Schnittstelle Suche, Klassen MinimaxAlgorithmus und MinimaxParalleleSuche*
 
-*Tabelle: Methoden der Schnittstelle Suche*
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
 | zugSuchen | Startet eine Suche nach einem Zug für die angegebene Stellung. Liefert nach und nach bessere Züge als Ereignisse an den übergebenen Observer. Das Ende der Suche (keinen besseren Zug mehr gefunden) wird ebenfalls an den Observer signalisiert.|
 | sucheAbbrechen | Bricht die aktuelle Suche ab.|
 | schliessen | Schließt die Suche vollständig. Anschließend dürfen keine Züge mehr damit ermittelt werden.|
+*Tabelle: Methoden der Schnittstelle Suche*
 
-*Tabelle: Methoden der Klasse MinimaxAlgorithmus*
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
@@ -39,6 +38,8 @@ Den Abschluss der Suche signalisiert die Suche über die Nachricht _onComplete_.
 | setBewertung | Setzt die Bewertungsfunktion, anhand derer die Stellungen bei Erreichen der maximalen Suchtiefe bewertet werden. [→ 5.8 Stellungsbewertung (Blackbox)](/05_bausteinsicht/08_stellungsbewertung/)|
 | setTiefe | Setzt die maximale Suchtiefe in Halbzügen, d.h. bei 4 zieht jeder Spieler zweimal.|
 | ermittleBestenZug | Ermittelt zur übergebenen Stellung den optimalen Zug gemäß Minimax und vorgegebener Stellungsbewertung bei fester Suchtiefe. Die Methode blockiert und ist deterministisch.|
+*Tabelle: Methoden der Klasse MinimaxAlgorithmus*
+
 
 ### Ablageort / Datei
 Die Implementierung liegt unterhalb der Pakete _de.dokchess.engine.suche..._
