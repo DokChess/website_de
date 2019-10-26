@@ -18,7 +18,7 @@ _de.dokchess.regeln.DefaultSpielregeln_.
 
 *Bild: Schnittstelle Spielregeln*
 
-*Tabelle: Methoden der Schnittstelle Spielregeln*
+----
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
@@ -27,6 +27,9 @@ _de.dokchess.regeln.DefaultSpielregeln_.
 | aufSchachPruefen | Püft, ob der König der angegebenen Farbe angegriffen ist, also im Schach steht. |
 | aufMattPruefen | Prüft, ob die übergebene Stellung ein Matt ist, also der aktuelle Spieler im Schach steht und kein Zug ihn aus diesem Angriff führt. Eine solche Spielsituation ist für den Spieler am Zug verloren ("Schach Matt").|
 | aufPattPruefen | Prüft, ob die übergebene Stellung ein Patt ist, also der aktuelle Spieler keinen gültigen Zug hat, aber nicht im Schach steht. Eine solche Spielsituation wird Remis gewertet.|
+*Tabelle: Methoden der Schnittstelle Spielregeln*
+
+----
 
 [Konzept 8.2 („Schach-Domänenmodell“)](/08_konzepte/02_domaenenmodell/) beschreibt die in der Schnittstelle verwendeten Aufruf- und Rückgabeparameter (_Zug_, _Stellung_, _Farbe_).
 Weitere Details entnehmen Sie der Quelltextdokumentation (javadoc).

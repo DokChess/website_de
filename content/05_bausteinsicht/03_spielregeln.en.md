@@ -20,7 +20,7 @@ _org.dokchess.rules.DefaultChessRules_.
 ![Interface ChessRules](/images/en/05_Subsystem_Rules.png "Interface ChessRules")
 *Fig.: Interface ChessRules*
 
-*Table: Methods of interface ChessRules*
+----
 
 |  Method | Short description |
 |-------------------------------|--------------------------------|
@@ -29,8 +29,12 @@ _org.dokchess.rules.DefaultChessRules_.
 | isCheck | Checks whether the king of the given colour is attacked by the opponent. |
 | isCheckmate | Checks whether the given position is a mate. I.e. the king of the current player is under attack, and no legal move changes this. The player to move has lost the game. |
 | isStalemate | Checks whether the given position is a stalemate. I.e. the current player has no valid move, but the king is not under attack. The game is considered a draw. |
+*Table: Methods of interface ChessRules*
 
-Concept [V.8.2](#section-v-8-2) "Chess Domain Model" describes the types used in the interface as call and return parameters (_Move_, _Position_, _Colour_). Refer to the source code documentation (javadoc) for more details.
+----
+
+Concept [V.8.2](#section-v-8-2) "Chess Domain Model" describes the types used in the interface as call and return parameters (_Move_, _Position_, _Colour_).
+Refer to the source code documentation (javadoc) for more details.
 
 ### Files
 The implementation is located below the packages  
