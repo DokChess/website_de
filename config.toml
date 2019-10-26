@@ -4,6 +4,9 @@ baseURL = "https://www.dokchess.de/"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 
+# remove tags and categories pages
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 theme = "learn"
 
 [outputs]
