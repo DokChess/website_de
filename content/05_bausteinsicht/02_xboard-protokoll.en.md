@@ -25,9 +25,9 @@ class _org.dokchess.textui.xboard.XBoard_.
 |-------------------------------|--------------------------------|
 | setInput   | Set the protocol input with a dependency injection (→ Concept V.8.1). Typically, the standard input (stdin), automated tests use a different source. |
 | setOutput | Set the protocol output. Typically, the standard output (stdout), automated tests may use a different target. |
-| setChessRules | Sets an implementation of the game rules, → [V.5.1.2](#section-v-5-1-2) "Subsystem Rules (Black Box)" |
-| setEngine | Sets an implementation of the engine, → [V.5.1.3](#section-v-5-1-3) "Subsystem Engine (Black Box)" |
-| play | Starts the actual communication (input / processing / output) in a 	infinite loop until the quit command. |
+| setChessRules | Sets an implementation of the game rules, [→ Subsystem Rules (Black Box)](/en/05_buildingblockview/03_rules/) |
+| setEngine | Sets an implementation of the engine, [→ Subsystem Engine (Black Box)](/en/05_buildingblockview/04_engine/) |
+| play | Starts the actual communication (input / processing / output) in a infinite loop until the quit command. |
 
 ### Files
 The implementation is located below the packages   
