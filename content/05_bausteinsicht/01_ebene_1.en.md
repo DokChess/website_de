@@ -20,6 +20,6 @@ The squared boxes on the membrane of the system are interaction points ("ports")
 |  Subsystem | Short description |
 |-----------|------------------|
 | [Text UI](/en/05_buildingblockview/02_textui/)   | Realizes communication with a client using the XBoard protocol. |
-| [Rules](#section-v-5-1-2) | Provides the rules of chess and for instance can determine all valid moves for a position. |
-| [Engine](#section-v-5-1-3) | Contains the determination of a next move starting from a game situation. |
-| [Opening](#section-v-5-1-4) | Provides standard moves of the chess opening literature for a game situation. |
+| [Rules](/en/05_buildingblockview/03_rules/) | Provides the rules of chess and for instance can determine all valid moves for a position. |
+| [Engine](/en/05_buildingblockview/04_engine/) | Contains the determination of a next move starting from a game situation. |
+| [Opening](/en/05_buildingblockview/05_opening/) | Provides standard moves of the chess opening literature for a game situation. |
