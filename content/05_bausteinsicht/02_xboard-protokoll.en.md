@@ -19,7 +19,7 @@ class _org.dokchess.textui.xboard.XBoard_.
 ![Classes XBoard and Main](/images/en/05_Subsystem_TextUI.png "Classes XBoard and Main")
 *Fig.: Classes XBoard und Main*
 
-*Table: Methods of class XBoard*
+----
 
 |  Method | Short description |
 |-------------------------------|--------------------------------|
@@ -28,6 +28,8 @@ class _org.dokchess.textui.xboard.XBoard_.
 | setChessRules | Sets an implementation of the game rules, [→ Subsystem Rules (Black Box)](/en/05_buildingblockview/03_rules/) |
 | setEngine | Sets an implementation of the engine, [→ Subsystem Engine (Black Box)](/en/05_buildingblockview/04_engine/) |
 | play | Starts the actual communication (input / processing / output) in a infinite loop until the quit command. |
+*Table: Methods of class XBoard*
+
 
 ### Files
 The implementation is located below the packages   

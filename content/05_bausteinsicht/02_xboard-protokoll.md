@@ -17,10 +17,9 @@ Das Subsystem treibt somit das ganze Spielgeschehen. Es enthält auch die main-M
 Das Subsystem stellt seine Funktionalität über die Java-Klassen _de.dokchess.xboard.XBoard_ und _de.dokchess.xboard.Main_ bereit:
 
 ![Klassen XBoard und Main](/images/Abb09_09_Schnittstellen_Xboard.png "Klassen XBoard und Main")
-
 *Bild: Klassen XBoard und Main*
 
-*Tabelle: Methoden der Klasse XBoard*
+----
 
 | Methode | Kurzbeschreibung |
 |---------|------------------|
@@ -29,13 +28,18 @@ Das Subsystem stellt seine Funktionalität über die Java-Klassen _de.dokchess.x
 | setSpielregeln | Setzt eine Implementierung der Spielregeln, [→ 5.3 Spielregeln (Blackbox)](/05_bausteinsicht/03_spielregeln/)
 | setEngine | Setzt eine Implementierung der Engine, [→ 5.4 Engine (Blackbox)](/05_bausteinsicht/04_engine/) |
 | spielen | Startet die eigentliche Kommunikation (Eingabe/Verarbeitung/Ausgabe) in einer Endlosschleife, bis zum Beenden-Kommando.|
+*Tabelle: Methoden der Klasse XBoard*
+
 
 ### Ablageort / Datei
-Die Implementierung liegt unterhalb der Pakete _de.dokchess.xboard..._
+Die Implementierung liegt unterhalb der Pakete   
+_de.dokchess.xboard..._
+
 
 ### Offene Punkte
-
-Die Implementierung des Protokolls ist unvollständig. Sie reicht aber für die an DokChess gestellten Anforderungen aus. Insbesondere werden folgende Features nicht unterstützt:
+Die Implementierung des Protokolls ist unvollständig.
+Sie reicht aber für die an DokChess gestellten Anforderungen aus.
+Insbesondere werden folgende Features nicht unterstützt:
 
 * Zeitkontrolle
 * Permanent Brain (Denken, auch während der andere denkt)
