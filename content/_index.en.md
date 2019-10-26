@@ -6,7 +6,8 @@ description = "DokChess is a fully functional chess engine. With the following a
 
 # Software Architecture en&nbsp;passant
 
-A century dream like flying: a machine that defeats humans in chess. Still a fascinating task for many developers today!   
+A dream of a century just like flying: Creating a machine that defeats humans in chess.
+Still a fascinating task for developers today!
 
 ### DokChess as example for arc42
 
