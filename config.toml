@@ -15,7 +15,8 @@ home = [ "HTML", "RSS", "JSON"]
   disableShortcutsTitle=true
 
 [Blackfriday]
-hrefTargetBlank=true
+# opens absolute links in a new window or tab
+hrefTargetBlank = true
 
 [Languages]
 [Languages.de]
