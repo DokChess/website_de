@@ -8,14 +8,12 @@ url="05_buildingblockview/01_level1"
 ## 5.1	Building Block View, Level 1
 
 DokChess breaks down in four subsystems as presented below. The dashed arrows represent logical dependencies between the subsystems ("x -> y" for "x depends on y").
-The squared boxes on the membrane of the system are interaction points ("ports") with the outside world ([→ Context](/en/03_context/02_deployment/)).
+The squared boxes on the membrane of the system are interaction points ("ports") with the outside world ([→ 3.1 Deployment Context](/en/03_context/02_deployment/)).
 
 ![DokChess, building block view, level 1](/images/en/05_BuildingBlocks_Level_1.png "DokChess, building block view, level 1")
 *Fig.: DokChess, building block view, level 1*
 
-
-
-*Table: Subsystems overview of DokChess*
+----
 
 |  Subsystem | Short description |
 |-----------|------------------|
@@ -23,3 +21,4 @@ The squared boxes on the membrane of the system are interaction points ("ports")
 | [Rules](/en/05_buildingblockview/03_rules/) | Provides the rules of chess and for instance can determine all valid moves for a position. |
 | [Engine](/en/05_buildingblockview/04_engine/) | Contains the determination of a next move starting from a game situation. |
 | [Opening](/en/05_buildingblockview/05_opening/) | Provides standard moves of the chess opening literature for a game situation. |
+*Table: Subsystems overview of DokChess*
