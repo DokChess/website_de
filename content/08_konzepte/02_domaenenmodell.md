@@ -5,7 +5,7 @@ weight = 2
 
 ## 8.2 Schach-Domänenmodell
 
-> Das Schachspiel wird zwischen zwei Gegnern gespielt, die abwechselnd ihre Figuren auf einem quadratischen Spielbrett, Schachbrett genannt, ziehen."
+> "Das Schachspiel wird zwischen zwei Gegnern gespielt, die abwechselnd ihre Figuren auf einem quadratischen Spielbrett, Schachbrett genannt, ziehen."
 >
 > (Zitat aus den FIDE-Regeln)
 
