@@ -15,7 +15,7 @@ Instead, the client resolves the dependencies by creating suitable implementatio
 
 Interfaces and DI enable alternative implementations within DokChess. Adding functionality with the help of the decorator pattern (Gamma+94) is possible as well.
 Furthermore, aspect-oriented programming (AOP) solutions, which rely on Java dynamic proxies, are applicable interfaces.
-Plus, this handling of dependencies positively affects testability (→ Concept [V.8.7](#section-v-8-7) "Testability").
+Plus, this handling of dependencies positively affects testability ([→ 8.7 Testability](/en/08_concepts/07_testability/)).
 
 DokChess abstains from the use of a concrete DI framework. The modules are hard-wired in the code, however only in unit tests and glue code (for example, the _main_ class). No annotation driven configuration is present in the code.
 
