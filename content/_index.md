@@ -3,10 +3,11 @@ title = "DokChess als Beispiel für arc42"
 description = "DokChess ist eine voll funktionsfähige Schach-Engine. Dieser Architekturüberblick nach arc42 lässt Euch die maßgeblichen Entwurfsentscheidungen nachvollziehen."
 +++
 
+{{% notice note %}}
+An [<i class="fas fa-language"></i> english translation](/en/) of the content is available an this site as well.
+{{% /notice %}}
 
 # Softwarearchitektur en&nbsp;passant
-
-> _Note: An [<i class="fas fa-language"></i> english translation](/en/) of the content is available an this site as well._
 
 Ein Jahrhunderttraum wie das Fliegen: Eine Maschine, die Menschen im Schach bezwingt. Auch heute noch für viele Entwickler eine faszinierende Aufgabe!  
 
