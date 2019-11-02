@@ -18,8 +18,8 @@ Je nachdem, wie die Anbindung an solche Programme realisiert wird, kann DokChess
 * Randbedingungen
  * Betrieb der Frontends zumindest auf Windows-Desktop-Betriebssystemen
  * Unterstützung frei verfügbarer Frontends
- * Bevorzugung etablierter (Schach-)Standards ([→ 2.3 „Konventionen“](/02_randbedingungen/03_konventionen/))
-* Maßgeblich betroffene Qualitätsmerkmale ([→ 1.2 „Qualitätsziele“](/01_einfuehrung/02_qualitaetsziele/))
+ * Bevorzugung etablierter (Schach-)Standards ([→ 2.3 Konventionen](/02_randbedingungen/03_konventionen/))
+* Maßgeblich betroffene Qualitätsmerkmale ([→ 1.2 Qualitätsziele](/01_einfuehrung/02_qualitaetsziele/))
  * Qualitätsziel: Bestehende Frontends nutzen (Interoperabilität)
  * Qualitätsziel: Einladende Experimentierplattform (Änderbarkeit)
  * Anpassbarkeit (an zukünftige Schach-Software)
