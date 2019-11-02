@@ -1,5 +1,6 @@
 +++
 title = "Frontend"
+menuTitle = "11.1 Frontend"
 weight = 1
 +++
 
