@@ -1,5 +1,6 @@
 +++
 title = "Stellungsobjekte"
+menuTitle = "9.2 Stellungsobjekte"
 weight = 2
 +++
 

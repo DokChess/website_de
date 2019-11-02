@@ -1,5 +1,6 @@
 +++
 title = "Frontend Connectivity"
+menuTitle = "9.1 Frontend Connectivity"
 weight = 1
 url="09_decisions/01_connectivity"
 +++

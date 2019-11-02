@@ -1,5 +1,6 @@
 +++
 title = "Frontend-Anbindung"
+menuTitle = "9.1 Frontend-Anbindung"
 weight = 1
 +++
 
