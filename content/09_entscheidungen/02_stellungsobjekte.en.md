@@ -2,6 +2,7 @@
 title = "Position Objects"
 menuTitle = "9.2 Position Objects"
 weight = 2
+description="Are Position Objects Changeable or Not?"
 url="09_decisions/02_positionobjects"
 +++
 

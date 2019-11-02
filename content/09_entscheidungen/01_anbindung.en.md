@@ -2,6 +2,7 @@
 title = "Frontend Connectivity"
 menuTitle = "9.1 Frontend Connectivity"
 weight = 1
+description="How Does the Engine Communicate with the Outside World?"
 url="09_decisions/01_connectivity"
 +++
 
