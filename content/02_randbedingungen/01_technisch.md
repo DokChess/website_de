@@ -1,5 +1,6 @@
 +++
 title = "Technisch"
+menuTitle = "2.1 Technisch"
 weight = 1
 +++
 

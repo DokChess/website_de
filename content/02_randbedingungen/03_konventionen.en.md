@@ -1,5 +1,6 @@
 +++
 title = "Conventions"
+menuTitle = "2.3 Conventions"
 weight = 3
 url = "02_constraints/03_conventions"
 +++

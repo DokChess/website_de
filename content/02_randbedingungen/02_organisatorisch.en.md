@@ -1,5 +1,6 @@
 +++
 title = "Organizational"
+menuTitle = "2.2 Organizational"
 weight = 2
 url = "02_constraints/02_organizational"
 +++

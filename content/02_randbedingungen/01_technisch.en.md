@@ -1,5 +1,6 @@
 +++
 title = "Technical"
+menuTitle = "2.1 Technical"
 weight = 1
 url = "02_constraints/01_technical"
 +++

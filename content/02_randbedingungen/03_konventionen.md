@@ -1,5 +1,6 @@
 +++
 title = "Konventionen"
+menuTitle = "2.3 Konventionen"
 weight = 3
 +++
 

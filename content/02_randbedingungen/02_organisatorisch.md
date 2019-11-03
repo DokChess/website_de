@@ -1,5 +1,6 @@
 +++
 title = "Organisatorisch"
+menuTitle = "2.2 Organisatorisch"
 weight = 2
 +++
 
