@@ -15,7 +15,6 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "red"
-  disableShortcutsTitle=true
 
 [Blackfriday]
 # opens absolute links in a new window or tab
@@ -55,7 +54,7 @@ url = "/impressum/"
 weight = 13
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-user-circle'></i> About the autor"
+name = "<i class='fas fa-user-circle'></i> About the author"
 url = "/author/"
 weight = 10
 
