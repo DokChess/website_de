@@ -2,6 +2,7 @@
 title = "Architekturüberblick"
 chapter = false
 weight = 1
+description="Ein Architekturüberblick für eine Schach-Engine. Gegliedert nach arc42."
 +++
 
 > "Eines Tages werden Computer uns alle überflüssig machen."

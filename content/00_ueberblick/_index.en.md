@@ -2,6 +2,7 @@
 title = "Architectural Overview"
 chapter = false
 weight = 1
+description="An architectural overview for a Chess Engine. Structured according to arc42."
 url="00_overview"
 +++
 
