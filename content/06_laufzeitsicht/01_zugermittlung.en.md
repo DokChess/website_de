@@ -1,5 +1,6 @@
 +++
 title = "Move Determination"
+menuTitle = "6.1 Move Determination"
 weight = 11
 url="06_runtimeview/01_move_determination"
 +++

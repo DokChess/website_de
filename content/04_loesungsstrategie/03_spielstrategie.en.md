@@ -1,10 +1,11 @@
 +++
 title = "Game Strategy"
+pre = "4.3 "
 weight = 12
 url = "04_solutionstrategy/02_gamestrategy"
 +++
 
-## 4.2 Game Strategy
+## 4.3 Game Strategy
 
 For the integration of opening libraries, the "Polyglot Opening Book" file format was implemented (→ Building Block View [V.5.1.4](#section-v-5-1-4) "Subsystem Opening (Blackbox)").
 This way, DokChess responds with profound chess knowledge in the beginning of a game.

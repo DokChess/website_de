@@ -1,9 +1,10 @@
 +++
 title = "Spielstrategie"
+pre = "4.3 "
 weight = 12
 +++
 
-## 4.2 Spielstrategie
+## 4.3 Spielstrategie
 
 Für die Integration von Eröffnungsbibliotheken wurde das Dateiformat „Polyglot Opening Book“ implementiert ([→ Bausteinsicht 5.5 “Eröffnung“](/05_bausteinsicht/05_eroeffnung/)), DokChess antwortet dadurch zu Beginn mit „Buchwissen“.
 

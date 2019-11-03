@@ -1,8 +1,11 @@
 +++
 title = "Introduction"
+pre = "4.1 "
 weight = 10
-url = "04_solutionstrategy/00_introduction"
+url = "04_solutionstrategy/01_introduction"
 +++
+
+## 4.1 Introduction to the Strategy
 
 The following table contrasts the quality goals of DokChess (→ [Section 1.2](/en/01_introduction/02_qualitygoals/)) with matching architecture approaches and thus provides easy access to the solution.
 

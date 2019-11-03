@@ -1,9 +1,10 @@
 +++
 title = "Anbindung"
+pre = "4.4 "
 weight = 13
 +++
 
-## 4.3 Die Anbindung
+## 4.4 Die Anbindung
 
 DokChess besitzt keine grafische Benutzeroberfläche; die Kommunikation erfolgt stattdessen über die Standardein­- und -­ausgabe.
 Als Kommunikationsprotokoll kommt das textbasierte XBoard-­Protokoll zum Einsatz ([→ Entscheidung 9.1 „Wie kommuniziert die Engine mit der Außenwelt?“](/09_entscheidungen/01_anbindung/)).

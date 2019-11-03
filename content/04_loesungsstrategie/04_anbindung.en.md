@@ -1,10 +1,11 @@
 +++
 title = "Connection"
+pre = "4.4 "
 weight = 13
 url = "04_solutionstrategy/03_connection"
 +++
 
-## 4.3 The Connection of the Engine
+## 4.4 The Connection of the Engine
 
 DokChess has no graphical user interface.
 Instead communication takes place via standard input and output.

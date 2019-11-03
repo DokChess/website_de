@@ -21,4 +21,4 @@ Polyglot Opening Book is a binary file format for opening libraries. DokChess al
 -----
 
 #### On endgames
-The implementation of a connection to endgame databases (such as [Nalimov Endgame tablebases](https://en.wikipedia.org/wiki/Endgame_tablebase)) has been dropped due to the effort of implementation (→ [V.11.2](#section-v-11-2) "Risk: Effort of implementation"). The design, however, is open to appropriate extensions.
+The implementation of a connection to endgame databases (such as [Nalimov Endgame tablebases](https://en.wikipedia.org/wiki/Endgame_tablebase)) has been dropped due to the effort of implementation (|→ Risk 11.2](/en/11_risks/02_effort/) Effort of implementation). The design, however, is open to appropriate extensions.

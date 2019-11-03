@@ -1,9 +1,10 @@
 +++
 title = "Aufbau"
+pre = "4.2 "
 weight = 11
 +++
 
-## 4.1 Der Aufbau von DokChess
+## 4.2 Der Aufbau von DokChess
 
 DokChess ist als Java-Programm mit main-Routine realisiert. Es zerfällt grob in folgende Teile:
 

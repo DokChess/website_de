@@ -1,5 +1,6 @@
 +++
 title = "Stellungsbewertung"
+pre = "5.8 "
 weight = 18
 +++
 

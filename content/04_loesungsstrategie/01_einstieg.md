@@ -1,7 +1,10 @@
 +++
 title = "Einstieg"
+pre = "4.1 "
 weight = 10
 +++
+
+## 4.1 Einstieg in die Lösungsstrategie
 
 Die folgende Tabelle stellt die Qualitätsziele von DokChess (siehe [Abschnitt 1.2](/01_einfuehrung/02_qualitaetsziele/)) passenden Architekturansätzen gegenüber, und erleichtert so einen Einstieg in die Lösung.
 

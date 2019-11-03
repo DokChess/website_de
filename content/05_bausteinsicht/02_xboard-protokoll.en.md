@@ -1,5 +1,6 @@
 +++
 title = "Text UI"
+pre = "5.2 "
 weight = 12
 url="05_buildingblockview/02_textui"
 +++

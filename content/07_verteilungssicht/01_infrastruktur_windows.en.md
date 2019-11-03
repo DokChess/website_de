@@ -1,12 +1,13 @@
 +++
-title = "Windows infrastructure"
+title = "Windows Infrastructure"
+menuTitle = "7.1 Windows Infrastructure"
 weight = 11
 url="07_deploymentview/01_windows_infrastructure"
 +++
 
 ## 7.1 Windows Infrastructure
 The following deployment diagram shows the use of DokChess on Windows without an opening book.
-Arena is used as an example frontend (→ decision [V.9.1](#section-v-9-1) "How does the engine communicate with the outside world?").
+Arena is used as an example frontend ([→ Decison 9.1](/en/09_decisions/01_connectivity/) "How does the engine communicate with the outside world?").
 
 ![Deploying DokChess on a Windows PC](/images/en/07_01_Deployment_Windows.png "Deploying DokChess on a Windows PC")
 *Fig.: Deploying DokChess on a Windows PC*

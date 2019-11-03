@@ -1,5 +1,6 @@
 +++
 title = "XBoard-Protokoll"
+pre = "5.2 "
 weight = 12
 +++
 

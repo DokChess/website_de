@@ -1,10 +1,11 @@
 +++
 title = "Structure"
+pre = "4.2 "
 weight = 11
-url = "04_solutionstrategy/01_structure"
+url = "04_solutionstrategy/02_structure"
 +++
 
-## 4.1 Structure of DokChess
+## 4.2 Structure of DokChess
 
 DokChess is implemented as a Java program with a main routine. It is roughly split into the following parts:
 
