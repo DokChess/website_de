@@ -34,7 +34,7 @@ _org.dokchess.rules.DefaultChessRules_.
 
 ----
 
-Concept [V.8.2](#section-v-8-2) "Chess Domain Model" describes the types used in the interface as call and return parameters (_Move_, _Position_, _Colour_).
+[→ Concept 8.2 Chess Domain Model](/en/08_concepts/02_domainmodel/) describes the types used in the interface as call and return parameters (_Move_, _Position_, _Colour_).
 Refer to the source code documentation (javadoc) for more details.
 
 ### Files
@@ -43,7 +43,7 @@ _org.dokchess.rules..._
 
 ### Open Issues
 Apart from the stalemate, the subsystem can not recognize any draw.
-In particular, the following rules are not implemented (→ [V.11.2](#section-v-11-2) "Risk: Effort of implementation"):
+In particular, the following rules are not implemented ([→ Risk 11.2](/en/11_risks/02_effort/) "Risk: Effort of implementation"):
 
 * 50 moves rule  
 * Threefold repetition
