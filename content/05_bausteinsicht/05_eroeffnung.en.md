@@ -44,7 +44,7 @@ Implementation of _OpeningLibrary_ that reads a binary file in the appropriate f
 
 ----
 
-Concept [V.8.2](#section-v-8-2) ("Chess domain model") describes the types used in the interface as call and return parameters (_Move_, _Position_).
+[→ Concept 8.2 Chess Domain Model](/en/08_concepts/02_domainmodel/) describes the types used in the interface as call and return parameters (_Move_, _Position_).
 
 ### Files
 The implementation, unit tests and test data for the Polyglot file format are located below the packages   

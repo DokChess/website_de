@@ -13,7 +13,7 @@ The following sequence diagram shows an example interaction at the subsystem lev
 ![Sample interaction for move determination](/images/en/06_01_Walkthrough.png "Sample interaction for move determination")
 *Fig.: Sample interaction for move determination*
 
-First, the _Text UI_ subsystem validates the input with the aid of the _Rules_ subsystem (→ Concept [V.8.4](#section-v-8-4) "Plausibility Checks and Validation").
+First, the _Text UI_ subsystem validates the input with the aid of the _Rules_ subsystem ([→ Concept 8.4](/en/05_buildingblockview/06_level_2_engine/) "Plausibility Checks and Validation").
 The move in the example is recognized as legal and performed on the (stateful) _Engine_ (the _performMove_ message) afterward.
 Then, the _Text UI_ subsystem asks the engine to determine its move.
 Since move computation can take a long time, but DokChess should still continue to react to inputs, this call is asynchronous. The engine comes back with possible moves.

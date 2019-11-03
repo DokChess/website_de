@@ -8,7 +8,7 @@ url="08_concepts/03_userinterface"
 ## 8.3	User Interface
 
 DokChess itself has no graphical user interface.
-It interacts via the XBoard protocol with the outside world (→ decision [V.9.1](#section-v-9-1) "How does the engine communicate with the outside world?").
+It interacts via the XBoard protocol with the outside world ([→ Decision 9.1](/en/09_decisions/01_connectivity/) "How does the engine communicate with the outside world?").
 
 The XBoard protocol is text-based.
 If you have mastered the main commands (see Figure ...) starting DokChess in a command line (Unix shell, Windows command prompt, ...) enables you to interact with the engine.
