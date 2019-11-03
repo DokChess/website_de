@@ -1,6 +1,8 @@
 +++
 title = "Begriffe"
+menuTitle = "12.2 Begriffe"
 weight = 15
+description="Tabelle mit Deutschen Schachbegriffen"
 +++
 
 | Begriff     | Erklärung      |
