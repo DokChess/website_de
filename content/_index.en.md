@@ -20,4 +20,4 @@ And you will discover in a joyful way how you can generally design, evaluate and
 > It is one of the case studies in my [German book](/en/credits/#content) on architectural documentation.
 > The Java source code is available at GitHub, further information on implementation can be found on these pages.
 >  
-> [Stefan Zörner](author)
+> [Stefan Zörner](/en/author/)

@@ -9,7 +9,7 @@ url = "author"
 
 ### Stefan Zörner
 
-From the Bayer AG via IBM and oose to embarc.
+From the Bayer AG via IBM and oose to [embarc](https://www.embarc.de).
 Stefan Zörner has twenty years of experience in IT and still looks forward to the future with excitement.
 He supports clients in solving architecture and implementation problems.
 In interesting workshops he demonstrates how to use practical design tools as well as spreading enthusiasm for real life architectural work.

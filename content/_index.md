@@ -4,7 +4,7 @@ description = "DokChess ist eine voll funktionsfähige Schach-Engine. Dieser Arc
 +++
 
 {{% notice note %}}
-An [<i class="fas fa-language"></i> english translation](/en/) of the content is available an this site as well.
+An [<i class="fas fa-language"></i> english translation](/en/) of the content is available on this site as well.
 {{% /notice %}}
 
 # Softwarearchitektur en&nbsp;passant
