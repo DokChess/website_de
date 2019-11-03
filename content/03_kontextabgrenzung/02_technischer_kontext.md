@@ -1,5 +1,6 @@
 +++
 title = "Technischer Kontext"
+menuTitle = "3.2 Technischer Kontext"
 weight = 2
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Business Context"
+menuTitle = "3.1 Business Context"
 weight = 1
 url = "03_context/01_business"
 +++
