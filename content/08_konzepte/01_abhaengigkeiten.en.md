@@ -1,5 +1,6 @@
 +++
 title = "Dependencies"
+menuTitle = "8.1 Dependencies"
 weight = 1
 url="08_concepts/01_dependencies"
 +++

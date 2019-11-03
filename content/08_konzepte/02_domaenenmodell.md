@@ -1,5 +1,6 @@
 +++
 title = "Domänenmodell"
+menuTitle = "8.2 Domänenmodell"
 weight = 2
 +++
 

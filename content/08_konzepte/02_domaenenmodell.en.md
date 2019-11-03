@@ -1,5 +1,6 @@
 +++
 title = "Domain Model"
+menuTitle = "8.2 Domain Model"
 weight = 2
 url="08_concepts/02_domainmodel"
 +++

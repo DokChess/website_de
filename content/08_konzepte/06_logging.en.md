@@ -1,5 +1,6 @@
 +++
 title = "Logging"
+menuTitle = "8.6 Logging"
 weight = 6
 url="08_concepts/06_logging"
 +++
