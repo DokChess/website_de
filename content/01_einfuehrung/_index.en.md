@@ -3,7 +3,7 @@ title = "Introduction and Goals"
 chapter = true
 weight = 1
 pre = "<b>1. </b>"
-description="Dieser Abschnitt führt in die Aufgabenstellung ein und skizziert die Ziele, die DokChess verfolgt."
+description="This section introduces the task and outlines the objectives pursued by DokChess."
 url = "01_introduction"
 +++
 
