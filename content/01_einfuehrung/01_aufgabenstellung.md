@@ -1,5 +1,6 @@
 +++
 title = "Aufgabenstellung"
+menuTitle = "1.1. Aufgabenstellung"
 weight = 15
 +++
 

@@ -1,5 +1,6 @@
 +++
 title = "Quality Goals"
+menuTitle = "1.2 Quality Goals"
 weight = 16
 url = "01_introduction/02_qualitygoals"
 +++

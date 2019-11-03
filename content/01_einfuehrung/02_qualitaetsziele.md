@@ -1,5 +1,6 @@
 +++
 title = "Qualitätsziele"
+menuTitle = "1.2 Qualitätsziele"
 weight = 16
 +++
 

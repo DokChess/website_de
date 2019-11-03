@@ -1,6 +1,8 @@
 +++
 title = "Stakeholder"
+menuTitle = "1.3 Stakeholder"
 weight = 17
+description = "Stellt die Stakeholder von DokChess und ihre jeweilige Intention dar."
 +++
 
 ## 1.3 Stakeholder

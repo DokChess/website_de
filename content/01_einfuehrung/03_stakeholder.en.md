@@ -1,6 +1,8 @@
 +++
 title = "Stakeholders"
+menuTitle = "1.3 Stakeholders"
 weight = 17
+description = "Illustrates the stakeholders of DokChess and their respective intentions."
 url = "01_introduction/02_stakeholders"
 +++
 
