@@ -1,6 +1,6 @@
 +++
 title = "Spielstärke"
-menuTitle = "11.3 Spielstärke"
+pre = "11.3 "
 weight = 3
 +++
 

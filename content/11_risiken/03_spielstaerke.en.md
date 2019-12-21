@@ -1,6 +1,6 @@
 +++
 title = "Playing Strength"
-menuTitle = "11.3 Playing Strength"
+pre = "11.3 "
 weight = 3
 url="11_risks/03_playingstrength"
 +++
