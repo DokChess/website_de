@@ -1,6 +1,6 @@
 +++
-title = "Frontend"
-menuTitle = "11.1 Frontend"
+title = "Anbindung Frontend"
+pre = "11.1 "
 weight = 1
 +++
 

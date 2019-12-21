@@ -1,6 +1,6 @@
 +++
-title = "Frontend"
-menuTitle = "11.1 Frontend"
+title = "Frontend Connection"
+pre = "11.1 "
 weight = 1
 url="11_risks/01_frontend"
 +++
