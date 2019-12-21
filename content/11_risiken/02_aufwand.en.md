@@ -1,6 +1,6 @@
 +++
 title = "Effort"
-menuTitle = "11.2 Effort"
+pre = "11.2 "
 weight = 2
 url="11_risks/02_effort"
 +++
