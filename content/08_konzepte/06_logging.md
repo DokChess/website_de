@@ -1,6 +1,6 @@
 +++
-title = "Logging"
-menuTitle = "8.6 Logging"
+title = "Protokollierung"
+menuTitle = "8.6 Protokollierung"
 weight = 6
 +++
 
