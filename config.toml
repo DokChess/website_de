@@ -9,6 +9,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 theme = "learn"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
