@@ -1,6 +1,7 @@
 +++
 title = "DokChess als Beispiel für arc42"
 description = "DokChess ist eine voll funktionsfähige Schach-Engine. Dieser Architekturüberblick nach arc42 lässt Euch die maßgeblichen Entwurfsentscheidungen nachvollziehen."
+priority = "1.0"
 +++
 
 {{% notice note %}}

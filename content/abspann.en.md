@@ -2,6 +2,7 @@
 title = "Credits"
 weight = 10
 url = "credits"
+priority = "1.0"
 +++
 
 ### References & Credits
