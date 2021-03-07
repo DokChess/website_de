@@ -1,6 +1,7 @@
 +++
 title = "Bewertungsszenarien"
 pre = "10.2 "
+description = "Diese Qualitätsszenarien (oder Bewertungsszenarien) konkretisieren die Qialitätsziele." 
 weight = 2
 +++
 

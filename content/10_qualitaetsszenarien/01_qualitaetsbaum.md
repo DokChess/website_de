@@ -1,6 +1,7 @@
 +++
 title = "Qualitätsbaum"
 pre = "10.1 "
+description = "Der Qualitätsbaum gibt einen Überblick über die relevanten Qualitätsmerkmale und zeigt die ihnen jeweils zugeordneten Qualitätsszenarien." 
 weight = 1
 +++
 
