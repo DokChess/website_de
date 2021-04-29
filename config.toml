@@ -25,6 +25,9 @@ home = [ "HTML", "RSS", "JSON"]
 # opens absolute links in a new window or tab
 hrefTargetBlank = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [Languages]
 [Languages.de]
 title = "DokChess (arc42)"
