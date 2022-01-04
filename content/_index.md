@@ -1,8 +1,9 @@
-+++
-title = "DokChess als Beispiel für arc42"
-description = "DokChess ist eine voll funktionsfähige Schach-Engine. Dieser Architekturüberblick nach arc42 lässt Euch die maßgeblichen Entwurfsentscheidungen nachvollziehen."
-priority = "1.0"
-+++
+---
+title: "DokChess als Beispiel für arc42"
+description: "DokChess ist eine voll funktionsfähige Schach-Engine. Dieser Architekturüberblick nach arc42 lässt Euch die maßgeblichen Entwurfsentscheidungen nachvollziehen."
+meta_image: /images/meta-images/default_1200x628.jpg
+priority: "1.0"
+---
 
 {{% notice note %}}
 An [<i class="fas fa-language"></i> english translation](/en/) of the content is available on this site as well.

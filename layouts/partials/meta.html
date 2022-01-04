@@ -1,0 +1,14 @@
+<!-- SEO -->
+<meta name="Description" content="{{ if .Params.meta_description }}{{ .Params.meta_description }}{{ else }}{{.Description}}{{ end }}">
+
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{.Title}}">
+<meta property="og:description" content="{{ if .Params.meta_description }}{{ .Params.meta_description }}{{ else }}{{.Description}}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ if .Params.meta_image }}{{ .Params.meta_image | absURL }}{{ else }}{{.Params.image | absURL }}{{ end }}">
+
+<!-- Twitter -->
+<meta property="twitter:title" content="{{.Title}}">
+<meta property="twitter:description" content="{{ if .Params.meta_description }}{{ .Params.meta_description }}{{ else }}{{.Description}}{{ end }}">	
+<meta property="twitter:image" content="{{ if .Params.meta_image }}{{ .Params.meta_image | absURL }}{{ else }}{{.Params.image | absURL }}{{ end }}">

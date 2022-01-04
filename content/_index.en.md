@@ -1,7 +1,9 @@
-+++
-title = "DokChess as example for arc42"
-description = "DokChess is a fully functional chess engine. With the following architectural overview, you will be able to understand the important design decisions of DokChess."
-+++
+---
+title: "DokChess as example for arc42"
+description: "DokChess is a fully functional chess engine. With the following architectural overview, you will be able to understand the important design decisions of DokChess."
+meta_image: /images/meta-images/default_1200x628.jpg
+priority: "1.0"
+---
 
 
 # Software Architecture en&nbsp;passant
