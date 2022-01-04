@@ -14,5 +14,5 @@ url = "02_constraints/02_organizational"
 | Process model | Risk driven development, iterative and incremental. To describe the architecture arc42 is used. An architecture documentation structured according to this template is a key project result. |
 | Development Tools | Design with pen and paper, in addition Enterprise Architect. Work results for architecture documentation collected in Confluence Wiki. Java source code created in Eclipse or IntelliJ. However, the software can be built only with Gradle, i.e. without an IDE.           |
 | Configuration and version management | At the beginning (Version 1.0) Subversion at SourceForge, later Git at GitHub.           |
-| Test tools and test processes | JUnit 4 with annotation style both for correctness and integration testing and for compliance with efficiency targets.           |
+| Test tools and test processes | JUnit with annotation style both for correctness and integration testing and for compliance with efficiency targets.           |
 | Release as Open Source | The source code of the solution, or at least parts, made available as open source. License: GNU General Public License version 3.0 (GPLv3). Hosted at [GitHub](https://github.com/DokChess/).          |
