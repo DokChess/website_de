@@ -12,7 +12,7 @@ weight = 2
 
 Die verschiedenen Systemteile tauschen schachspezifische Daten aus.
 Hierzu zählen vor allem die Situation auf dem Brett (Stellung), sowie gegnerische und eigene Züge.
-Als Aufruf- und Rückgabeparameter werden in allen Modulen dieselben Klassen verwendet.
+Als Aufruf- und Rückgabeparameter finden in allen Modulen dieselben Klassen Verwendung.
 
 An dieser Stelle finden Sie einen groben Überblick über diese Datenstrukturen und deren Abhängigkeiten untereinander.
 Details sind in der Quelltextdokumentation (javadoc) enthalten.

@@ -23,9 +23,10 @@ Die folgende Tabelle zeigt einen Beispieldialog, alle Kommandos werden mit einer
 
 *Tabelle: Beispielkommunikation zwischen einem Client und DokChess (XBoard)*
 
-Das Protokoll selbst wird in [Mann+2009] detailliert beschrieben, für die Implementierung in DokChess ist das Subsystem XBoard-Protokoll zuständig ([→ Bausteinsicht 5.2](/05_bausteinsicht/02_xboard-protokoll/)).
+Das Protokoll selbst ist in [Mann+2009] detailliert beschrieben, für die Implementierung in DokChess ist das Subsystem XBoard-Protokoll zuständig ([→ Bausteinsicht 5.2](/05_bausteinsicht/02_xboard-protokoll/)).
 
-Die typische Verwendung von DokChess ist das Vorschalten eines grafischen Schachfrontends wie Arena (siehe Bild unten), das die Züge des Gegners über eine komfortable Oberfläche entgegennimmt und diese in Form von XBoard-Kommandos wie in der Tabelle oben an DokChess weitergibt (Spalte "Client -> DokChess") und die Antworten (Spalte "DokChess -> Client") grafisch umsetzt.
+Die typische Verwendung von DokChess ist das Vorschalten eines grafischen Schachfrontends wie Arena (siehe Bild unten), das die Züge der anderen Seite – inder Regel eines Menschen – über eine komfortable Oberfläche entgegennimmt und diese in Form von XBoard-Kommandos wie in der Tabelle oben an DokChess weitergibt (Spalte "Client -> DokChess") und die Antworten (Spalte "DokChess -> Client") grafisch umsetzt.
+Die andere Seite kann auch eine andere Schach-Engine sein.
 
 ![DokChess im Schach-Frontend Arena unter Windows](/images/Abb09_21_FrontendArena.png "DokChess im Schach-Frontend Arena unter Windows")
 

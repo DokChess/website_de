@@ -23,11 +23,11 @@ Von der Schnittstelle der Stellung hängen sämtliche Module ab; eine nachträgl
  * moderate Hardwareausstattung
 * Maßgeblich betroffene Qualitätsmerkmale ([→ 1.2 „Qualitätsziele“](/01_einfuehrung/02_qualitaetsziele/))
  * Qualitätsziel: Einladende Experimentierplattform (Änderbarkeit)
- * Qualitätsziel: Akzeptable Spielstärke (Attraktivität)
+ * Qualitätsziel: Akzeptable Spielstärke (Funktionale Eignung)
  * Qualitätsziel: Schnelles Antworten auf Züge (Effizienz)
 * Betroffene Risiken
- * Aufwand der Implementierung ([→ 11.2](/11_risiken/02_aufwand/))
- * Erreichen der Spielstärke ([→ 11.3](/11_risiken/03_spielstaerke/))
+ * Aufwand der Implementierung zu hoch ([→ 11.2](/11_risiken/02_aufwand/))
+ * Erreichen der Spielstärke scheitert ([→ 11.3](/11_risiken/03_spielstaerke/))
 
 ### Annahmen
 
@@ -39,7 +39,7 @@ Von der Schnittstelle der Stellung hängen sämtliche Module ab; eine nachträgl
 Ausgangspunkt sind fachlich motivierte Klassen für Feld, Figur und Zug ([→ 8.2 „Schach-Domänenmodell“](/08_konzepte/02_domaenenmodell/)).
 Die Klassen sind unveränderlich als Wertobjekte realisiert (Feld e4 bleibt nach Erzeugung stets e4).
 
-Für die Stellung werden zwei Alternativen betrachtet:
+Für die Stellung betrachten wir zwei Alternativen:
 
 * **Option (1)**: Die Stellung ist veränderlich. Einzelne Methoden der Schnittstelle verändern den Zustand, führen beispielsweise Züge aus oder nehmen sie zurück.
 
@@ -74,11 +74,15 @@ Die folgende Tabelle fasst Stärken und Schwächen der beiden Optionen zusammen,
 
 (+) Positiv
 
-Die Stellung mit ihrem umfangreichen Zustand muss nicht bei jedem Zug kopiert werden. Das spart Speicher und Rechenzeit, und es schont den Garbage Collector. Für Analysealgorithmen ist allerdings Funktionalität zu implementieren, die ausgeführte Züge zurücknimmt („undo“). Dieses Zurücknehmen kostet ebenfalls Zeit, daher die neutrale Bewertung (o) beim Zeitverhalten.
+Wir müssen die Stellung mit ihrem umfangreichen Zustand nicht bei jedem Zug kopieren. 
+Das spart Speicher und Rechenzeit, und es schont den Garbage Collector. Für Analysealgorithmen ist allerdings Funktionalität zu implementieren, die ausgeführte Züge zurücknimmt („undo“). Dieses Zurücknehmen kostet ebenfalls Zeit, daher die neutrale Bewertung (o) beim Zeitverhalten.
 
 (-) Negativ
 
-Die Implementierung des Zurücknehmens ist aufwändig, es müssen nicht nur geschlagene Figuren wieder hingestellt werden. Die Rochade-Regel und En passant erfordern eine gesonderte Behandlung. Das Command-Pattern [Gamma+94] bietet sich als Option an. Auch die Verwendung durch Algorithmen ist aufwändiger, da diese das Zurücknehmen von Zügen explizit aufrufen müssen.
+Die Implementierung des Zurücknehmens ist aufwändig.
+Sie muss nicht nur geschlagene Figuren wieder hinstellen.
+Die Rochade-Regel und En passant erfordern zusätzlich eine gesonderte Behandlung.
+Das Command-Pattern [Gamma+94] bietet sich als Option an. Auch die Verwendung durch Algorithmen ist aufwändiger, da diese das Zurücknehmen von Zügen explizit aufrufen müssen.
 
 Veränderbarer Zustand hat Nachteile bezüglich Nebenläufigkeit.
 

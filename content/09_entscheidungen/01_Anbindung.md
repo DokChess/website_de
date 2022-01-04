@@ -25,7 +25,7 @@ Je nachdem, wie die Anbindung an solche Programme realisiert wird, kann DokChess
  * Qualitätsziel: Einladende Experimentierplattform (Änderbarkeit)
  * Anpassbarkeit (an zukünftige Schach-Software)
 * Betroffene Risiken
- * Anbindung an das Frontend ([→ 11.1](/11_risiken/01_frontend/))
+ * Anbindung an das Frontend schlägt fehl ([→ 11.1](/11_risiken/01_frontend/))
 
 ### Annahmen
 
@@ -59,11 +59,12 @@ Die folgende Tabelle zeigt, welches der untersuchten Frontend welches Protokoll 
 
 ### Entscheidung
 
-Grundsätzlich lassen sich die Qualitätsziele unter den gegebenen Randbedingungen von beiden Protokollen erreichen. Je nachdem, welches Protokoll implementiert wird, werden unterschiedliche Frontends unterstützt.
+Grundsätzlich lassen sich die Qualitätsziele unter den gegebenen Randbedingungen von beiden Protokollen erreichen. 
+Je nachdem, welches Protokoll wir implementieren, unterstützen wir unterschiedliche Frontends.
 
 Die Entscheidung fiel Anfang 2011 zugunsten des XBoard-Protokolls. Die Struktur von DokChess erlaubt es, alternative Kommunikationsprotokolle (UCI oder andere) hinzuzufügen, ohne die Engine selbst dafür verändern zu müssen, siehe hierzu Abhängigkeiten in der Bausteinsicht ([→ 5.1](/05_bausteinsicht/01_ebene_1/)).
 Das präferierte Frontend unter Windows ist Arena.
 Es ist frei verfügbar und vom Leistungsumfang WinBoard überlegen. Es besitzt gute Debug-Möglichkeiten, kann zum Beispiel die Kommunikation zwischen Frontend und Engine live in einem Fenster darstellen.
 Arena unterstützt beide Protokolle.
 
-Mit der Entscheidung für das XBoard-Protokoll werden zusätzlich zu Windows weitere Betriebssysteme (insbesondere Mac OS X und Linux) mit einem frei verfügbaren Frontend unterstützt. Da so ein größerer Kreis Interessierter die Engine verwenden kann, gab dies letztendlich den Ausschlag.
+Mit der Entscheidung für das XBoard-Protokoll unterstützen wir zusätzlich zu Windows weitere Betriebssysteme (insbesondere Mac OS X und Linux) mit einem frei verfügbaren Frontend unterstützt. Da so ein größerer Kreis Interessierter die Engine verwenden kann, gab dies letztendlich den Ausschlag.

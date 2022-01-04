@@ -14,7 +14,7 @@ Als Frontend wird exemplarisch Arena verwendet ([→ Entscheidung 9.1 „Wie kom
 
 Software-Voraussetzungen auf dem PC:
 
-* Java Runtime Environment SE 7 (oder höher)
+* Java Runtime Environment SE 11 (oder höher)
 * Die JVM (javaw.exe) muss im Pfad liegen, ansonsten ist dokchess.bat anzupassen
 * Arena (siehe http://www.playwitharena.de)
 

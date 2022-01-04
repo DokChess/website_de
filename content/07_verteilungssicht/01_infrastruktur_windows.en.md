@@ -14,7 +14,7 @@ Arena is used as an example frontend ([→ Decison 9.1](/en/09_decisions/01_conn
 
 Software Requirements on a PC:
 
-* Java Runtime Environment SE 7 (or higher)
+* Java Runtime Environment SE 11 (or higher)
 * The JVM (javaw.exe) is in the _PATH_, otherwise adapt _dokchess.bat_
 * [Arena](http://www.playwitharena.de)
 
