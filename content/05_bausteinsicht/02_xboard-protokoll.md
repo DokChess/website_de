@@ -43,6 +43,6 @@ Sie reicht aber für die an DokChess gestellten Anforderungen aus.
 Insbesondere werden folgende Features nicht unterstützt:
 
 * Zeitkontrolle
-* Permanent Brain (Denken, auch während der andere denkt)
-* Remis-Angebote und Aufgabe des Gegners
+* Permanent Brain (Denken, auch während die andere Seite denkt)
+* Remis-Angebote und Aufgabe der anderen Seite
 * Schach-Varianten (alternative Regeln, z.B. Schach960)
