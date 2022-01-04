@@ -15,21 +15,22 @@ Diese Seiten nutzen zur Gliederung der Inhalte Material des arc42 Architektur-Te
 
 #### Die Inhalte
 
-Eine erste Fassung dieses Architekturüberblicks ist im Buch "Softwarearchitekturen dokumentieren und kommunizieren" erschienen (1. Auflage 2012). Die Inhalte wurden für die 2. Auflage ergänzt.
+Eine erste Fassung dieses Architekturüberblicks ist im Buch "Softwarearchitekturen dokumentieren und kommunizieren" erschienen (1. Auflage 2012). Die Inhalte wurden später für die 2. und 3. Auflage ergänzt.
 
-![Softwarearchitekturen dokumentieren und kommunizieren](/images/abspann/swadok_cover_200x282.jpg "Softwarearchitekturen dokumentieren und kommunizieren")
+![Softwarearchitekturen dokumentieren und kommunizieren](/images/abspann/swadok_cover_3rd_edition200x280.png "Softwarearchitekturen dokumentieren und kommunizieren")
 
 **Softwarearchitekturen dokumentieren und kommunizieren**  
 *Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten*
 
 Autor: Stefan Zörner    
-Verlag: Carl Hanser Verlag, 2. Auflage 2015  
+Verlag: Carl Hanser Verlag, 3. Auflage Dezember 2021  
 Sprache: Deutsch  
-ISBN: 978-3-446-42924-6  
-Umfang: ca. 280 Seiten  
+ISBN: 978-3-446-46928-0  
+Umfang: ca. 300 Seiten  
 
-<i class="fas fa-external-link-alt"></i> [Webseite bei Hanser](https://www.hanser-fachbuch.de/buch/Softwarearchitekturen+dokumentieren+und+kommunizieren/9783446443488)  
-<i class="fas fa-external-link-alt"></i> [das Buch kaufen bei amazon.de](https://www.amazon.de/dp/3446443487/)  
+<i class="fas fa-external-link-alt"></i> [Webseite des Buches](https://www.swadok.de)  
+<i class="fas fa-external-link-alt"></i> [das Buch kaufen bei Hanser](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446469280)  
+<i class="fas fa-external-link-alt"></i> [das Buch kaufen bei amazon.de](https://www.amazon.de/dp/3446469281/)  
 
 -----
 

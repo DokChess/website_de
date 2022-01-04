@@ -17,21 +17,22 @@ This web site uses material from the arc42 architecture template by Peter Hrusch
 
 #### Content
 
-A first version of this architecture overview has been published in the book "Softwarearchitekturen dokumentieren und kommunizieren" (1st edition 2012). The contents were supplemented for the 2nd edition.
+A first version of this architecture overview has been published in the book "Softwarearchitekturen dokumentieren und kommunizieren" (1st edition 2012). The contents were supplemented for the 2nd anf 3rd edition.
 
-![Softwarearchitekturen dokumentieren und kommunizieren](/images/abspann/swadok_cover_200x282.jpg "Softwarearchitekturen dokumentieren und kommunizieren")
+![Softwarearchitekturen dokumentieren und kommunizieren](/images/abspann/swadok_cover_3rd_edition200x280.png "Softwarearchitekturen dokumentieren und kommunizieren")
 
 **Softwarearchitekturen dokumentieren und kommunizieren**  
 *Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten*
 
 Author: Stefan Zörner    
-Publisher: Carl Hanser Verlag, 2. Auflage 2015  
+Publisher: Carl Hanser Verlag, 3rd Edition December 2021  
 Language: German  
 ISBN: 978-3-446-42924-6  
-Number of pages: ca. 280  
+Number of pages: ca. 300  
 
-<i class="fas fa-external-link-alt"></i> [Hanser Website](https://www.hanser-fachbuch.de/buch/Softwarearchitekturen+dokumentieren+und+kommunizieren/9783446443488)  
-<i class="fas fa-external-link-alt"></i> [Buy at amazon.de](https://www.amazon.de/dp/3446443487/)  
+<i class="fas fa-external-link-alt"></i> [Book Website (German)](https://www.swadok.de)  
+<i class="fas fa-external-link-alt"></i> [Buy at Hanser](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446469280)  
+<i class="fas fa-external-link-alt"></i> [Buy at amazon.de](https://www.amazon.de/dp/3446469281/)
 
 -----
 
