@@ -5,7 +5,7 @@ weight = 3
 url="11_risks/03_playingstrength"
 +++
 
-## 11.3 Risk: Reaching the Playing Strength
+## 11.3 Risk: Achieving the playing strength fails
 
 The quality goals demand both an acceptable playing strength and a simple, accessible solution.
 In addition, there are requirements with respect to efficiency.
@@ -16,12 +16,12 @@ This would be particularly unpleasant for live performances in lectures, as the 
 
 It is unclear at what point a playing strength is considered to be unreasonably weak.
 
-### Eventuality Planning
+### Contingency Planning
 
 In conference talks, parts of the live demonstration could be omitted. If necessary, we could show games played before.
 
 
-### Risk Minimization
+### Risk Mitigation
 
 Suitable scenarios (examples [→ 10. "Quality Scenarios"](/en/10_qualityscenarios/)) concretize the quality goals.
 With the help of chess literature (chess problems to be precise) we develop test cases (unit testing), which specify what playing strength can be expected.

@@ -31,8 +31,8 @@ All modules depend on the position interface. A subsequent change would affect a
  * Quality Goal: Acceptable playing strength (Attractiveness)
  * Quality Goal: Quick response to opponent's moves (Effizienz)
 * Affected Risks
- * Effort of implementation ([→ 11.2](/11_risiken/02_aufwand/))
- * Reaching the playing strength ([→ 11.3](/11_risiken/03_spielstaerke/))
+ * Implementation effort too high ([→ 11.2](/en/11_risks/02_effort))
+ * Achieving the playing strength fails ([→ 11.3](/en/11_risks/03_playingstrength))
 
 ### Assumptions
 

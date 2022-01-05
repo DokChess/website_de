@@ -31,7 +31,7 @@ Thus, the issue affects DokChess' interoperability  with existing chess software
  * Quality Goal: Platform appealing to experiments (Changeability)
  * Adaptability (to future chess software)
 * Affected Risks
- * Connecting to a frontend ([→ 11.1](/11_risiken/01_frontend/))
+ * Connecting to the Frontend fails ([→ 11.1](/en/11_risks/01_frontend/))
 
 ### Assumptions
 

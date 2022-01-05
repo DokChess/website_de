@@ -5,7 +5,7 @@ weight = 2
 url="11_risks/02_effort"
 +++
 
-## 11.2 Risk: Effort of Implementation
+## 11.2 Risk: Implementation effort too high
 
 There is no experience with chess programming.
 Simultaneously, the rules that are to be implemented completely ([→ 1.1 Requirements Overview](/en/01_introduction/01_requirements/)) are extensive and complicated.
@@ -18,13 +18,13 @@ The implementation of DokChess runs as a hobby alongside, within the spare time.
 It is unclear whether this is sufficient to present ambitious results within schedule ([→ 2.2 Organizational Constraints](/en/02_constraints/02_organizational/)).
 
 
-### Eventuality Planning
+### Contingency Planning
 
 If there is no runnable version for the conference sessions in March and September 2011, a live demonstration could be omitted.
 The free evening talk at oose in March could even be canceled completely (which could negatively affect the reputation).
 
 
-### Risk Minimization
+### Risk Mitigation
 
 In order to reduce effort, the following rules are not implemented at first:
 
