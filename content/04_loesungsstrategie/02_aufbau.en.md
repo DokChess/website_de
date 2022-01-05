@@ -21,7 +21,7 @@ The decomposition further allows the software, especially the chess algorithms, 
 
 The interaction between algorithms takes place using the exchange of data structures motivated by the domain implemented as Java classes (piece, move and so on, [→ 8.2 Chess Domain Model](/en/08_concepts/02_domainmodel/)).
 Here, better understandability is preferred at the cost of efficiency.
-Nevertheless, DokChess reached an acceptable playing strength, as a run through the corresponding scenarios shows ([→ 10. Quality Scenarios](/en/10_qualityscenarios/)).
+Nevertheless, DokChess reached an acceptable playing strength, as a run through the corresponding scenarios shows ([→ 10. Quality Scenarios](/en/10_qualityrequirements/)).
 
 The key element of the data structure design is the game situation.
 This includes the placement of the chess pieces and other aspects that belong to the position (such as which side moves next).

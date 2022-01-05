@@ -18,7 +18,7 @@ Die Zerlegung erlaubt es weiterhin die Software, allen voran die Schachalgorithm
 
 Die Interaktion zwischen Algorithmen­Teilen erfolgt über den Austausch fachlich motivierter Datenstrukturen, realisiert als Klassen (_Figur_, _Zug_, ... [→ Konzept 8.2 „Schach­Domänenmodell“](/08_konzepte/02_domaenenmodell/)).
 Hier wurde bewusst eine bessere Verständlichkeit angestrebt, auf Kosten von Effizienz.
-Gleichwohl erreicht DokChess eine akzeptable Spielstärke, wie ein Durchspielen der entsprechenden Szenarien zeigt ([→ 10. Qualitätsszenarien](/10_qualitaetsszenarien/)).
+Gleichwohl erreicht DokChess eine akzeptable Spielstärke, wie ein Durchspielen der entsprechenden Szenarien zeigt ([→ 10. Qualitätsszenarien](/10_qualitaetsanforderungen/)).
 
 Zentrales Element beim Entwurf der Datenstrukturen ist die Spielsituation: Welche Figuren gerade wo stehen und was sonst noch zur Stellung dazu gehört (z. B. wer am Zug ist).
 Auch hier ging bei der Implementierung der fachlich motivierten Klasse dazu Lesbarkeit vor Effizienz.

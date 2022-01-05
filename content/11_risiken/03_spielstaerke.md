@@ -19,6 +19,6 @@ In Vorträgen könnten wir auf Teile der Live-Demonstration verzichten.
 Gegebenenfalls zeigen wir im Vorfeld gespielte Partien. 
 
 ### Risikominderung
-Mit Hilfe geeigneter [Szenarien](/10_qualitaetsszenarien/) konkretisieren wir die Qualitätsziele.
+Mit Hilfe geeigneter [Szenarien](/10_qualitaetsanforderungen/) konkretisieren wir die Qualitätsziele.
 Im Anschluss entwickeln wir mit Hilfe von Schachliteratur (konkret Schachaufgaben) Testfälle (Unit- und Integrationstests), die präzisieren, welche Spielstärke wir erwarten.
 So können wir zumindest früh ermitteln, wo die Engine steht.

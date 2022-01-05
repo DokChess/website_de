@@ -8,7 +8,7 @@ url: "10_qualityrequirements/02_qualityscenarios"
 ## 10.2 Quality Scenarios
 
 The initial letters of the identifiers (IDs) of the scenarios in the following table each stand for the parent quality attribute (in German), E for efficiency, for instance.
-These identifiers are also used in the [quality tree](/10_qualityrequirements/01_utilitytree/).
+These identifiers are also used in the [quality tree](/en/10_qualityrequirements/01_utilitytree/).
 The scenarios cannot always be clearly assigned to one characteristic.
 Therefore, they sometimes appear several times in the quality tree.
 

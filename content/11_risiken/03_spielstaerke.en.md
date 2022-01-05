@@ -23,6 +23,6 @@ In conference talks, parts of the live demonstration could be omitted. If necess
 
 ### Risk Mitigation
 
-Suitable scenarios (examples [→ 10. "Quality Scenarios"](/en/10_qualityscenarios/)) concretize the quality goals.
+Suitable scenarios (examples [→ 10. "Quality Scenarios"](/en/10_qualityrequirements/)) concretize the quality goals.
 With the help of chess literature (chess problems to be precise) we develop test cases (unit testing), which specify what playing strength can be expected.
 Thus at least we detect early where the engine stands.
