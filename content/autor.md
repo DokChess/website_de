@@ -16,8 +16,10 @@ Darum geht es auch in meinem [dritten Buch](/abspann/#die-inhalte) „Softwarear
 
 ### Kontakt
 
-
+<i class="fab fa-linkedin"></i> [Kontakt via LinkedIn](https://www.linkedin.com/in/stefan-zoerner/)  
 
 <i class="fab fa-xing"></i> [Kontakt via Xing](https://www.xing.com/profile/Stefan_Zoerner3)  
+
+<i class="fab fa-mastodon"></i> [Mastodon: @StefanZoerner](https://mastodon.social/@StefanZoerner)  
 
 <i class="fab fa-twitter"></i> [Twitter: @StefanZoerner](https://twitter.com/StefanZoerner)  

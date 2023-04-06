@@ -1,5 +1,5 @@
 +++
-title = "About the Autor"
+title = "About the Author"
 weight = 10
 description="Stefan Zörner works as a consultant, trainer and coach at embarc in Hamburg."
 url = "author"
@@ -16,6 +16,10 @@ In interesting workshops he demonstrates how to use practical design tools as we
 
 ### Contact
 
+<i class="fab fa-linkedin"></i> [Contact via LinkedIn](https://www.linkedin.com/in/stefan-zoerner/)  
+
 <i class="fab fa-xing"></i> [Contact via Xing](https://www.xing.com/profile/Stefan_Zoerner3)  
+
+<i class="fab fa-mastodon"></i> [Mastodon: @StefanZoerner](https://mastodon.social/@StefanZoerner)  
 
 <i class="fab fa-twitter"></i> [Twitter: @StefanZoerner](https://twitter.com/StefanZoerner)  

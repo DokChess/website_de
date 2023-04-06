@@ -34,6 +34,22 @@ Umfang: ca. 300 Seiten
 
 -----
 
+Im Zusammenhang mit der dritten Auflage des Buches ist ein Flyer entstanden, der die zentralen Inhalte des Architekturüberblicks noch einmal verdichtet.
+
+![DokChess als Flyer](/images/abspann/DokChess_Architekturueberblick_Flyer_1_320x227.png "DokChess als Flyer")
+
+**DokChess als Flyer**  
+*DIN A3, zweiseitig, Treppenfalz*
+
+Autor: Stefan Zörner    
+Sprache: Deutsch  
+Umfang: 2 Seiten, DIN A3  
+Formate: PDF, Print
+
+<i class="fas fa-external-link-alt"></i> [Download auf embarc.de](https://www.embarc.de/architektur-ueberblicke/#dokchess)
+
+-----
+
 Eine Englische Fassung ist als Kapitel in folgendem E-Book enthalten.
 
 ![arc42 by example](/images/abspann/arc42byexample_cover_200x.png "arc42 by example")

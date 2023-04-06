@@ -25,3 +25,21 @@ Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen sind bei 
 > Ihr wollt selbst eine Schachengine implementieren? Dann startet [hier](/20_selber_starten/)!"
 >  
 > [Stefan Zörner](/autor/)
+
+-----
+
+### Weitere Beispiele im Netz
+
+**arc42-Starschnitt Gradle**  
+*Ein Architekturüberblick in Lebensgröße.*
+
+Könnt Ihr Euch noch an die Starschnitte in der Bravo erinnern? Da wurde Heft für Heft ein Puzzlestück geliefert, nach einigen Wochen setzte sich dann alles zu einem Teenie-Idol zusammen. In Anlehnung an diese schöne Tradition liefert diese Blogserie einen aktuellen Star der Softwareentwicklung Stück für Stück als Architekturüberblick.
+
+<i class="fas fa-external-link-alt"></i> [Blog-Serie arc42-Starschnitt](https://www.embarc.de/arc42-starschnitt-gradle/)  
+
+**Architekturikonen in Software**  
+*Wegweisende Lösungen im Porträt.*
+
+In dieser Reihe aus dem IT Spektrum diskutiert Stefan Zörner die Lösungsstrategien prominenter Softwarelösungen. Jeder Beitrag stellt den Architekturzielen des Systems die gewählten Entwurfsentscheidungen gegenüber. Euch erwartet eine kleine Galerie prägnanter Architektur-Porträts vom Framework bis zum Quelltext-Editor, von 2002 bis 2020. Was ist die Sydney-Oper der Softwarearchitektur?
+
+<i class="fas fa-external-link-alt"></i> [Artikel-Reihe Architektur-Porträts](https://www.embarc.de/architektur-portraets/) 
