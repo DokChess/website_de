@@ -4,13 +4,14 @@ weight = 10
 +++
 
 ### Ziele klären!
-Bevor Sie loslegen, sollten Sie sich Gedanken über die Ziele machen, die Sie mit dem Projekt verfolgen.  Das klingt banal, aber es macht schon einen Riesenunterschied, ob Sie eine Schach-Engine entwickeln, um (z.B.)
+
+Bevor Sie loslegen, sollten Sie sich Gedanken über die Ziele machen, die Sie mit dem Projekt verfolgen. Das klingt banal, aber es macht schon einen Riesenunterschied, ob Sie eine Schach-Engine entwickeln, um (z.B.)
 
 * auf vergnügliche Weise eine neue Programmiersprache zu lernen, oder
 * neue Technologien oder ein neues Werkzeug auszuprobieren, oder
 * mit Ihrer Engine tatsächlich vorne mitzuspielen, oder ...
 
-Das sind alles valide Ziele. Seien Sie sich über Ihre individuellen im Klaren, bevor Sie loslegen! Sie werden sich sonst schwer tun, Entscheidungen zu treffen. Minimum ist eine Art Produktkarton, der die zentralen Punkte fixiert.
+Das sind alles valide Ziele. Seien Sie sich über Ihre individuellen Ziele im Klaren, bevor Sie loslegen! Sie werden sich sonst schwer tun, Entscheidungen zu treffen. Minimum ist eine Art Produktkarton, der die zentralen Punkte fixiert.
 
 ### Beispiel: Die Ziele von DokChess
 
@@ -20,6 +21,7 @@ Ich habe DokChess als Beispiel für Architekturentwurf und (vor allem) Architekt
 * Qualitätsziele DokChess
 
 ### Die Drei Iterationen
+
 Die Darstellung der folgenden drei Iteration folgt stets diesem Muster:
 
 * Zu Beginn: Vorstellung des Iterationszieles
