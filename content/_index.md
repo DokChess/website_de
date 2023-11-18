@@ -30,6 +30,13 @@ Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen sind bei 
 
 ### Weitere Beispiele im Netz
 
+**Architekturikonen in Software**  
+*Wegweisende Lösungen im Porträt.*
+
+In dieser Reihe aus dem IT Spektrum diskutiert Stefan Zörner die Lösungsstrategien prominenter Softwarelösungen. Jeder Beitrag stellt den Architekturzielen des Systems die gewählten Entwurfsentscheidungen gegenüber. Euch erwartet eine kleine Galerie prägnanter Architektur-Porträts vom Framework bis zum Quelltext-Editor, von 2002 bis 2020. Was ist die Sydney-Oper der Softwarearchitektur? Zu den vorgestellten Lösungen zählen das Spring Framework, der Messenger Threema, Visual Studio Code und die Programmiersprache Go.
+
+<i class="fas fa-external-link-alt"></i> [Artikel-Serie Architektur-Porträts online lesen](https://www.embarc.de/architektur-portraets/) 
+
 **arc42-Starschnitt Gradle**  
 *Ein Architekturüberblick in Lebensgröße.*
 
@@ -37,9 +44,3 @@ Könnt Ihr Euch noch an die Starschnitte in der Bravo erinnern? Da wurde Heft f�
 
 <i class="fas fa-external-link-alt"></i> [Blog-Serie arc42-Starschnitt](https://www.embarc.de/arc42-starschnitt-gradle/)  
 
-**Architekturikonen in Software**  
-*Wegweisende Lösungen im Porträt.*
-
-In dieser Reihe aus dem IT Spektrum diskutiert Stefan Zörner die Lösungsstrategien prominenter Softwarelösungen. Jeder Beitrag stellt den Architekturzielen des Systems die gewählten Entwurfsentscheidungen gegenüber. Euch erwartet eine kleine Galerie prägnanter Architektur-Porträts vom Framework bis zum Quelltext-Editor, von 2002 bis 2020. Was ist die Sydney-Oper der Softwarearchitektur?
-
-<i class="fas fa-external-link-alt"></i> [Artikel-Reihe Architektur-Porträts](https://www.embarc.de/architektur-portraets/) 
