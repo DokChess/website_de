@@ -66,6 +66,14 @@ Formate: PDF, EPUB, MOBI
 
 -----
 
+#### Lizenz
+
+Die Inhalte dieser Seite stehen unter der CC BY-NC-SA 4.0 Lizenz
+(Creative Commons Namensnennung - Nicht kommerziell - Share alike 4.0).
+Weitere Informationen dazu finden Sie unter [Lizenz](/lizenz/).  
+
+-----
+
 #### Tooling
 
 Zur Generierung dieser Seite diente Hugo, das laut Selbstauskunft weltweit schnellste Framework für die Erstellung von Websites.

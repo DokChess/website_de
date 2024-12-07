@@ -46,20 +46,25 @@ url = "/autor/"
 weight = 10
 
 [[menu.shortcuts]]
+name = "<i class='fas fa-file'></i> Lizenz (CC BY-NC-SA)"
+url = "/lizenz/"
+weight = 11
+
+[[menu.shortcuts]]
 name = "<i class='fas fa-star'></i> Abspann (Credits)"
 url = "/abspann/"
-weight = 11
+weight = 12
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Quelltexte (GitHub)"
 identifier = "ds"
 url = "https://github.com/DokChess/"
-weight = 12
+weight = 13
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-info-circle'></i> Impressum"
 url = "/impressum/"
-weight = 13
+weight = 14
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-user-circle'></i> About the author"
@@ -67,17 +72,23 @@ url = "/author/"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-file'></i> Licence (CC BY-NC-SA)"
+url = "/licence/"
+weight = 11
+
+
+[[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-star'></i> Credits"
 url = "/credits/"
-weight = 11
+weight = 12
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Source code (GitHub)"
 identifier = "ds"
 url = "https://github.com/DokChess/"
-weight = 12
+weight = 13
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-info-circle'></i> Site Notice"
 url = "/site_notice/"
-weight = 13
+weight = 14
